@@ -1,0 +1,1540 @@
+Pick,Team,Player,Position,College/Univ,Year
+1,CLE,Myles Garrett,DE,Texas A&M,2017
+2,CHI,Mitchell Trubisky,QB,North Carolina,2017
+3,SF,Solomon Thomas,DE,Stanford,2017
+4,JAX,Leonard Fournette,RB,LSU,2017
+5,TEN,Corey Davis,WR,Western Michigan,2017
+6,NYJ,Jamal Adams,S,LSU,2017
+7,LAC,Mike Williams,WR,Clemson,2017
+8,CAR,Christian McCaffrey,RB,Stanford,2017
+9,CIN,John Ross,WR,Washington,2017
+10,KC,Patrick Mahomes,QB,Texas Tech,2017
+11,NO,Marshon Lattimore,CB,Ohio St.,2017
+12,HOU,Deshaun Watson,QB,Clemson,2017
+13,ARI,Haason Reddick,LB,Temple,2017
+14,PHI,Derek Barnett,DE,Tennessee,2017
+15,IND,Malik Hooker,S,Ohio St.,2017
+16,BAL,Marlon Humphrey,CB,Alabama,2017
+17,WAS,Jonathan Allen,DE,Alabama,2017
+18,TEN,Adoree' Jackson,CB,USC,2017
+19,TB,O.J. Howard,TE,Alabama,2017
+20,DEN,Garett Bolles,T,Utah,2017
+21,DET,Jarrad Davis,LB,Florida,2017
+22,MIA,Charles Harris,OLB,Missouri,2017
+23,NYG,Evan Engram,TE,Mississippi,2017
+24,OAK,Gareon Conley,CB,Ohio St.,2017
+25,CLE,Jabrill Peppers,S,Michigan,2017
+26,ATL,Takkarist McKinley,DE,UCLA,2017
+27,BUF,Tre'Davious White,CB,LSU,2017
+28,DAL,Taco Charlton,DE,Michigan,2017
+29,CLE,David Njoku,TE,Miami (FL),2017
+30,PIT,T.J. Watt,OLB,Wisconsin,2017
+31,SF,Reuben Foster,LB,Alabama,2017
+32,NO,Ryan Ramczyk,T,Wisconsin,2017
+33,GB,Kevin King,CB,Washington,2017
+34,JAX,Cam Robinson,T,Alabama,2017
+35,SEA,Malik McDowell,DT,Michigan St.,2017
+36,ARI,Budda Baker,S,Washington,2017
+37,BUF,Zay Jones,WR,East Carolina,2017
+38,LAC,Forrest Lamp,G,Western Kentucky,2017
+39,NYJ,Marcus Maye,S,Florida,2017
+40,CAR,Curtis Samuel,WR,Ohio St.,2017
+41,MIN,Dalvin Cook,RB,Florida St.,2017
+42,NO,Marcus Williams,S,Utah,2017
+43,PHI,Sidney Jones,CB,Washington,2017
+44,LAR,Gerald Everett,TE,South Alabama,2017
+45,CHI,Adam Shaheen,TE,Ashland,2017
+46,IND,Quincy Wilson,CB,Florida,2017
+47,BAL,Tyus Bowser,OLB,Houston,2017
+48,CIN,Joe Mixon,RB,Oklahoma,2017
+49,WAS,Ryan Anderson,OLB,Alabama,2017
+50,TB,Justin Evans,S,Texas A&M,2017
+51,DEN,DeMarcus Walker,DE,Florida St.,2017
+52,CLE,DeShone Kizer,QB,Notre Dame,2017
+53,DET,Teez Tabor,CB,Florida,2017
+54,MIA,Raekwon McMillan,LB,Ohio St.,2017
+55,NYG,Dalvin Tomlinson,DT,Alabama,2017
+56,OAK,Obi Melifonwu,S,Connecticut,2017
+57,HOU,Zach Cunningham,LB,Vanderbilt,2017
+58,SEA,Ethan Pocic,C,LSU,2017
+59,KC,Tanoh Kpassagnon,DE,Villanova,2017
+60,DAL,Chidobe Awuzie,CB,Colorado,2017
+61,GB,Josh Jones,S,North Carolina St.,2017
+62,PIT,JuJu Smith-Schuster,WR,USC,2017
+63,BUF,Dion Dawkins,G,Temple,2017
+64,CAR,Taylor Moton,G,Western Michigan,2017
+65,CLE,Larry Ogunjobi,DT,Charlotte,2017
+66,SF,Ahkello Witherspoon,CB,Colorado,2017
+67,NO,Alvin Kamara,RB,Tennessee,2017
+68,JAX,Dawuane Smoot,DE,Illinois,2017
+69,LAR,Cooper Kupp,WR,East. Washington,2017
+70,MIN,Pat Elflein,C,Ohio St.,2017
+71,LAC,Dan Feeney,G,Indiana,2017
+72,TEN,Taywan Taylor,WR,Western Kentucky,2017
+73,CIN,Jordan Willis,OLB,Kansas St.,2017
+74,BAL,Chris Wormley,DE,Michigan,2017
+75,ATL,Duke Riley,LB,LSU,2017
+76,NO,Alex Anzalone,LB,Florida,2017
+77,CAR,Daeshon Hall,DE,Texas A&M,2017
+78,BAL,Tim Williams,OLB,Alabama,2017
+79,NYJ,ArDarius Stewart,WR,Alabama,2017
+80,IND,Tarell Basham,DE,Ohio,2017
+81,WAS,Fabian Moreau,CB,UCLA,2017
+82,DEN,Carlos Henderson,WR,Louisiana Tech,2017
+83,NE,Derek Rivers,DE,Youngstown St.,2017
+84,TB,Chris Godwin,WR,Penn St.,2017
+85,NE,Antonio Garcia,T,Troy,2017
+86,KC,Kareem Hunt,RB,Toledo,2017
+87,NYG,Davis Webb,QB,California,2017
+88,OAK,Eddie Vanderdoes,DT,UCLA,2017
+89,HOU,D'Onta Foreman,RB,Texas,2017
+90,SEA,Shaquill Griffin,DB,Central Florida,2017
+91,LAR,John Johnson,S,Boston Col.,2017
+92,DAL,Jourdan Lewis,CB,Michigan,2017
+93,GB,Montravius Adams,DT,Auburn,2017
+94,PIT,Cameron Sutton,CB,Tennessee,2017
+95,SEA,Lano Hill,S,Michigan,2017
+96,DET,Kenny Golladay,WR,Northern Illinois,2017
+97,MIA,Cordrea Tankersley,CB,Clemson,2017
+98,ARI,Chad Williams,WR,Grambling St.,2017
+99,PHI,Rasul Douglas,CB,West Virginia,2017
+100,TEN,Jonnu Smith,TE,Florida International,2017
+101,DEN,Brendan Langley,CB,Lamar,2017
+102,SEA,Nazair Jones,DT,North Carolina,2017
+103,NO,Trey Hendrickson,OLB,Florida Atlantic,2017
+104,SF,C.J. Beathard,QB,Iowa,2017
+105,PIT,James Conner,RB,Pittsburgh,2017
+106,SEA,Amara Darboh,WR,Michigan,2017
+107,TB,Kendell Beckwith,ILB,LSU,2017
+108,GB,Vince Biegel,LB,Wisconsin,2017
+109,MIN,Jaleel Johnson,DT,Iowa,2017
+110,JAX,Dede Westbrook,WR,Oklahoma,2017
+111,SEA,Tedric Thompson,S,Colorado,2017
+112,CHI,Eddie Jackson,S,Alabama,2017
+113,LAC,Rayshawn Jenkins,S,Miami (FL),2017
+114,WAS,Samaje Perine,RB,Oklahoma,2017
+115,ARI,Dorian Johnson,G,Pittsburgh,2017
+116,CIN,Carl Lawson,OLB,Auburn,2017
+117,LAR,Josh Reynolds,WR,Texas A&M,2017
+118,PHI,Mack Hollins,WR,North Carolina,2017
+119,CHI,Tarik Cohen,RB,North Carolina A&T,2017
+120,MIN,Ben Gedeon,ILB,Michigan,2017
+121,SF,Joe Williams,RB,Utah,2017
+122,BAL,Nico Siragusa,G,San Diego St.,2017
+123,WAS,Montae Nicholson,S,Michigan St.,2017
+124,DET,Jalen Reeves-Maybin,LB,Tennessee,2017
+125,LAR,Samson Ebukam,OLB,East. Washington,2017
+126,CLE,Howard Wilson,CB,Houston,2017
+127,DET,Michael Roberts,TE,Toledo,2017
+128,CIN,Josh Malone,WR,Tennessee,2017
+129,OAK,David Sharpe,T,Florida,2017
+130,HOU,Julie'n Davenport,T,Bucknell,2017
+131,NE,Deatrich Wise Jr.,DE,Arkansas,2017
+132,PHI,Donnel Pumphrey,RB,San Diego St.,2017
+133,DAL,Ryan Switzer,WR,North Carolina,2017
+134,GB,Jamaal Williams,RB,BYU,2017
+135,PIT,Joshua Dobbs,QB,Tennessee,2017
+136,ATL,Sean Harlow,G,Oregon St.,2017
+137,IND,Zach Banner,T,USC,2017
+138,CIN,Ryan Glasgow,DT,Michigan,2017
+139,KC,Jehu Chesson,WR,Michigan,2017
+140,NYG,Wayne Gallman,RB,Clemson,2017
+141,NYJ,Chad Hansen,WR,California,2017
+142,HOU,Carlos Watkins,DT,Clemson,2017
+143,IND,Marlon Mack,RB,South Florida,2017
+144,IND,Grover Stewart,DT,Albany State (GA),2017
+145,DEN,Jake Butt,TE,Michigan,2017
+146,SF,George Kittle,TE,Iowa,2017
+147,CHI,Jordan Morgan,G,Kutztown (PA),2017
+148,JAX,Blair Brown,LB,Ohio,2017
+149,ATL,Damontae Kazee,CB,San Diego St.,2017
+150,NYJ,Jordan Leggett,TE,Clemson,2017
+151,LAC,Desmond King,S,Iowa,2017
+152,CAR,Corn Elder,CB,Miami (FL),2017
+153,CIN,Jake Elliott ,K,Memphis,2017
+154,WAS,Jeremy Sprinkle,TE,Arkansas,2017
+155,TEN,Jayon Brown,LB,UCLA,2017
+156,ATL,Brian Hill,RB,Wyoming,2017
+157,ARI,Will Holden,T,Vanderbilt,2017
+158,IND,Nate Hairston,CB,Temple,2017
+159,BAL,Jermaine Eluemunor,G,Texas A&M,2017
+160,CLE,Roderick Johnson,T,Florida St.,2017
+161,IND,Anthony Walker,LB,Northwestern,2017
+162,TB,Jeremy McNichols,RB,Boise St.,2017
+163,BUF,Matt Milano,LB,Boston Col.,2017
+164,MIA,Isaac Asiata,G,Utah,2017
+165,DET,Jamal Agnew,CB,San Diego,2017
+166,PHI,Shelton Gibson,WR,West Virginia,2017
+167,NYG,Avery Moss,DE,Youngstown St.,2017
+168,OAK,Marquel Lee,LB,Wake Forest,2017
+169,HOU,Treston Decoud,S,Oregon St.,2017
+170,MIN,Rodney Adams,WR,South Florida,2017
+171,BUF,Nathan Peterman,QB,Pittsburgh,2017
+172,DEN,Isaiah McKenzie,WR,Georgia,2017
+173,PIT,Brian Allen,DB,Utah,2017
+174,ATL,Eric Saubert,TE,Drake,2017
+175,GB,DeAngelo Yancey,WR,Purdue,2017
+176,CIN,JJ Dielman,C,Utah,2017
+177,SF,Trent Taylor,WR,Louisiana Tech,2017
+178,MIA,Davon Godchaux,DT,LSU,2017
+179,ARI,T.J. Logan,RB,North Carolina,2017
+180,MIN,Danny Isidora,G,Miami (FL),2017
+181,NYJ,Dylan Donahue,DL,West Georgia,2017
+182,GB,Aaron Jones,RB,Texas-El Paso,2017
+183,KC,Ukeme Eligwe,LB,Georgia Southern,2017
+184,PHI,Nathan Gerry,S,Nebraska,2017
+185,CLE,Caleb Brantley,DT,Florida,2017
+186,BAL,Chuck Clark,DB,Virginia Tech,2017
+187,SEA,Michael Tyson,S,Cincinnati,2017
+188,NYJ,Elijah McGuire,RB,Louisiana,2017
+189,LAR,Tanzel Smart,DT,Tulane,2017
+190,LAC,Sam Tevi,T,Utah,2017
+191,DAL,Xavier Woods,S,Louisiana Tech,2017
+192,CAR,Alex Armah,FB,West Georgia,2017
+193,CIN,Jordan Evans,LB,Oklahoma,2017
+194,MIA,Vincent Taylor,DT,Oklahoma St.,2017
+195,BUF,Tanner Vallejo,LB,Boise St.,2017
+196,NO,Al-Quadin Muhammad,DE,Miami (FL),2017
+197,NYJ,Jeremy Clark,CB,Michigan,2017
+198,SF,D.J. Jones,DT,Mississippi,2017
+199,WAS,Chase Roullier,C,Wyoming,2017
+200,NYG,Adam Bisnowaty,T,Pittsburgh,2017
+201,MIN,Bucky Hodges,TE,Virginia Tech,2017
+202,SF,Pita Taumoepenu,OLB,Utah,2017
+203,DEN,De'Angelo Henderson,RB,Coastal Carolina,2017
+204,NYJ,Derrick Jones,CB,Mississippi,2017
+205,DET,Jeremiah Ledbetter,DE,Arkansas,2017
+206,LAR,Sam Rogers,FB,Virginia Tech,2017
+207,CIN,Brandon Wilson,RB,Houston,2017
+208,ARI,Rudy Ford ,S,Auburn,2017
+209,WAS,Robert Davis,WR,Georgia St.,2017
+210,SEA,Justin Senior,T,Mississippi St.,2017
+211,NE,Conor McDermott,T,UCLA,2017
+212,GB,Kofi Amichia,C,South Florida,2017
+213,PIT,Colin Holba,LS,Louisville,2017
+214,PHI,Elijah Qualls,DT,Washington,2017
+215,DET,Brad Kaaya,QB,Miami (FL),2017
+216,DAL,Marquez White,CB,Florida St.,2017
+217,TEN,Corey Levin,OL,Chattanooga,2017
+218,KC,Leon McQuay,S,USC,2017
+219,MIN,Stacy Coley,WR,Miami (FL),2017
+220,MIN,Ifeadi Odenigbo,DL,Northwestern,2017
+221,OAK,Shalom Luani,S,Washington St.,2017
+222,JAX,Jalen Myrick,CB,Minnesota,2017
+223,TB,Stevie Tu'ikolovatu,NT,USC,2017
+224,CLE,Zane Gonzalez,K,Arizona St.,2017
+225,LAC,Isaac Rochell,DT,Notre Dame,2017
+226,SEA,David Moore,WR,East Central (OK),2017
+227,TEN,Josh Carraway,OLB,TCU,2017
+228,DAL,Joey Ivie,DT,Florida,2017
+229,SF,Adrian Colbert,DB,Miami (FL),2017
+230,WAS,Josh Harvey-Clemons,S,Louisville,2017
+231,OAK,Jylan Ware,T,Alabama St.,2017
+232,MIN,Elijah Lee,LB,Kansas St.,2017
+233,CAR,Harrison Butker,K,Georgia Tech,2017
+234,LAR,Ejuan Price,DE,Pittsburgh,2017
+235,WAS,Joshua Holsey,DB,Auburn,2017
+236,TEN,Brad Seaton,T,Villanova,2017
+237,MIA,Isaiah Ford,WR,Virginia Tech,2017
+238,GB,Devante Mays,RB,Utah St.,2017
+239,DAL,Noah Brown,WR,Ohio St.,2017
+240,JAX,Marquez Williams,FB,Miami (FL),2017
+241,TEN,Khalfani Muhammad,RB,California,2017
+242,OAK,Elijah Hood,RB,North Carolina,2017
+243,HOU,Kyle Fuller,C,Baylor,2017
+244,OAK,Treyvon Hester,DT,Toledo,2017
+245,MIN,Jack Tocho,CB,North Carolina St.,2017
+246,DAL,Jordan Carrell,DT,Colorado,2017
+247,GB,Malachi Dupre,WR,LSU,2017
+248,PIT,Keion Adams,OLB,Western Michigan,2017
+249,SEA,Chris Carson,RB,Oklahoma St.,2017
+250,DET,Pat O'Connor,DE,East. Michigan,2017
+251,CIN,Mason Schreck,TE,Buffalo,2017
+252,CLE,Matthew Dayes,RB,North Carolina St.,2017
+253,DEN,Chad Kelly,QB,Mississippi,2017
+1,CLE,Baker Mayfield,QB,Oklahoma,2018
+2,NYG,Saquon Barkley,RB,Penn St.,2018
+3,NYJ,Sam Darnold,QB,USC,2018
+4,CLE,Denzel Ward,CB,Ohio St.,2018
+5,DEN,Bradley Chubb,DE,North Carolina St.,2018
+6,IND,Quenton Nelson,G,Notre Dame,2018
+7,BUF,Josh Allen,QB,Wyoming,2018
+8,CHI,Roquan Smith,ILB,Georgia,2018
+9,SFO,Mike McGlinchey,T,Notre Dame,2018
+10,ARI,Josh Rosen,QB,UCLA,2018
+11,MIA,Minkah Fitzpatrick,S,Alabama,2018
+12,TAM,Vita Vea,DT,Washington,2018
+13,WAS,Daron Payne,DT,Alabama,2018
+14,NOR,Marcus Davenport,DE,Texas-San Antonio,2018
+15,OAK,Kolton Miller,T,UCLA,2018
+16,BUF,Tremaine Edmunds,ILB,Virginia Tech,2018
+17,LAC,Derwin James,S,Florida St.,2018
+18,GNB,Jaire Alexander,CB,Louisville,2018
+19,DAL,Leighton Vander Esch,OLB,Boise St.,2018
+20,DET,Frank Ragnow,C,Arkansas,2018
+21,CIN,Billy Price,C,Ohio St.,2018
+22,TEN,Rashaan Evans,ILB,Alabama,2018
+23,NWE,Isaiah Wynn,T,Georgia,2018
+24,CAR,D.J. Moore,WR,Maryland,2018
+25,BAL,Hayden Hurst,TE,South Carolina,2018
+26,ATL,Calvin Ridley,WR,Alabama,2018
+27,SEA,Rashaad Penny,RB,San Diego St.,2018
+28,PIT,Terrell Edmunds,S,Virginia Tech,2018
+29,JAX,Taven Bryan,DT,Florida,2018
+30,MIN,Mike Hughes,CB,Central Florida,2018
+31,NWE,Sony Michel,RB,Georgia,2018
+32,BAL,Lamar Jackson,QB,Louisville,2018
+33,CLE,Austin Corbett,C,Nevada,2018
+34,NYG,Will Hernandez,G,Texas-El Paso,2018
+35,CLE,Nick Chubb,RB,Georgia,2018
+36,IND,Shaquille Leonard,LB,South Carolina St.,2018
+37,IND,Braden Smith,G,Auburn,2018
+38,TAM,Ronald Jones II,RB,USC,2018
+39,CHI,James Daniels,C,Iowa,2018
+40,DEN,Courtland Sutton,WR,SMU,2018
+41,TEN,Harold Landry,OLB,Boston Col.,2018
+42,MIA,Mike Gesicki,TE,Penn St.,2018
+43,DET,Kerryon Johnson,RB,Auburn,2018
+44,SFO,Dante Pettis,WR,Washington,2018
+45,GNB,Josh Jackson,CB,Iowa,2018
+46,KAN,Breeland Speaks,DE,Mississippi,2018
+47,ARI,Christian Kirk,WR,Texas A&M,2018
+48,LAC,Uchenna Nwosu,OLB,USC,2018
+49,PHI,Dallas Goedert,TE,South Dakota St.,2018
+50,DAL,Connor Williams,T,Texas,2018
+51,CHI,Anthony Miller,WR,Memphis,2018
+52,IND,Kemoko Turay,OLB,Rutgers,2018
+53,TAM,M.J. Stewart,CB,North Carolina,2018
+54,CIN,Jessie Bates III,S,Wake Forest,2018
+55,CAR,Donte Jackson,CB,LSU,2018
+56,NWE,Duke Dawson,CB,Florida,2018
+57,OAK,P.J. Hall,DT,Sam Houston St.,2018
+58,ATL,Isaiah Oliver,CB,Colorado,2018
+59,WAS,Derrius Guice,RB,LSU,2018
+60,PIT,James Washington,WR,Oklahoma St.,2018
+61,JAX,DJ Chark,WR,LSU,2018
+62,MIN,Brian O'Neill,T,Pittsburgh,2018
+63,TAM,Carlton Davis,CB,Auburn,2018
+64,IND,Tyquan Lewis,DE,Ohio St.,2018
+65,OAK,Brandon Parker,T,North Carolina A&T,2018
+66,NYG,Lorenzo Carter,DE,Georgia,2018
+67,CLE,Chad Thomas,DE,Miami (FL),2018
+68,HOU,Justin Reid,S,Stanford,2018
+69,NYG,B.J. Hill,DT,North Carolina St.,2018
+70,SFO,Fred Warner,OLB,BYU,2018
+71,DEN,Royce Freeman,RB,Oregon,2018
+72,NYJ,Nathan Shepherd,DT,Fort Hays St.,2018
+73,MIA,Jerome Baker,OLB,Ohio St.,2018
+74,WAS,Geron Christian,T,Louisville,2018
+75,KAN,Derrick Nnadi,DT,Florida St.,2018
+76,PIT,Mason Rudolph,QB,Oklahoma St.,2018
+77,CIN,Sam Hubbard,DE,Ohio St.,2018
+78,CIN,Malik Jefferson,OLB,Texas,2018
+79,SEA,Rasheem Green,DT,USC,2018
+80,HOU,Martinas Rankin,T,Mississippi St.,2018
+81,DAL,Michael Gallup,WR,Colorado St.,2018
+82,DET,Tracy Walker,S,Louisiana,2018
+83,BAL,Orlando Brown Jr.,T,Oklahoma,2018
+84,LAC,Justin Jones,DT,North Carolina St.,2018
+85,CAR,Rashaan Gaulden,CB,Tennessee,2018
+86,BAL,Mark Andrews,TE,Oklahoma,2018
+87,OAK,Arden Key,DE,LSU,2018
+88,GNB,Oren Burks,ILB,Vanderbilt,2018
+89,LAR,Joseph Noteboom,T,TCU,2018
+90,ATL,Deadrin Senat,DT,South Florida,2018
+91,NOR,Tre'Quan Smith,WR,Central Florida,2018
+92,PIT,Chukwuma Okorafor,T,Western Michigan,2018
+93,JAX,Ronnie Harrison,S,Alabama,2018
+94,TAM,Alex Cappa,T,Humboldt St.,2018
+95,SFO,Tarvarius Moore,S,Southern Miss,2018
+96,BUF,Harrison Phillips,DT,Stanford,2018
+97,ARI,Mason Cole,C,Michigan,2018
+98,HOU,Jordan Akins,TE,Central Florida,2018
+99,DEN,Isaac Yiadom,CB,Boston Col.,2018
+100,KAN,Dorian O'Daniel,OLB,Clemson,2018
+101,CAR,Ian Thomas,TE,Indiana,2018
+102,MIN,Jalyn Holmes,DE,Ohio St.,2018
+103,HOU,Keke Coutee,WR,Texas Tech,2018
+104,IND,Nyheim Hines,RB,North Carolina St.,2018
+105,CLE,Antonio Callaway,WR,Florida,2018
+106,DEN,Josey Jewell,ILB,Iowa,2018
+107,NYJ,Chris Herndon,TE,Miami (FL),2018
+108,NYG,Kyle Lauletta,QB,Richmond,2018
+109,WAS,Troy Apke,S,Penn St.,2018
+110,OAK,Nick Nelson,CB,Wisconsin,2018
+111,LAR,Brian Allen,C,Michigan St.,2018
+112,CIN,Mark Walton,RB,Miami (FL),2018
+113,DEN,DaeSean Hamilton,WR,Penn St.,2018
+114,DET,Da'Shawn Hand,DE,Alabama,2018
+115,CHI,Joel Iyiegbuniwe,LB,Western Kentucky,2018
+116,DAL,Dorance Armstrong Jr.,DE,Kansas,2018
+117,TAM,Jordan Whitehead,S,Pittsburgh,2018
+118,BAL,Anthony Averett,CB,Alabama,2018
+119,LAC,Kyzir White,S,West Virginia,2018
+120,SEA,Will Dissly,TE,Washington,2018
+121,BUF,Taron Johnson,CB,Weber St.,2018
+122,BAL,Kenny Young,LB,UCLA,2018
+123,MIA,Durham Smythe,TE,Notre Dame,2018
+124,KAN,Armani Watts,S,Texas A&M,2018
+125,PHI,Avonte Maddox,CB,Pittsburgh,2018
+126,ATL,Ito Smith,RB,Southern Miss,2018
+127,NOR,Rick Leonard,T,Florida St.,2018
+128,SFO,Kentavius Street,DT,North Carolina St.,2018
+129,JAX,Will Richardson,T,North Carolina St.,2018
+130,PHI,Josh Sweat,DE,Florida St.,2018
+131,MIA,Kalen Ballage,RB,Arizona St.,2018
+132,BAL,Jaleel Scott,WR,New Mexico St.,2018
+133,GNB,J'Mon Moore,WR,Missouri,2018
+134,ARI,Chase Edmonds,RB,Fordham,2018
+135,LAR,John Franklin-Myers,DE,S.F. Austin,2018
+136,CAR,Marquis Haynes,OLB,Mississippi,2018
+137,DAL,Dalton Schultz,TE,Stanford,2018
+138,GNB,Cole Madison,G,Washington St.,2018
+139,NYG,R.J. McIntosh,DT,Miami (FL),2018
+140,OAK,Maurice Hurst Jr.,DT,Michigan,2018
+141,SEA,Shaquem Griffin,OLB,Central Florida,2018
+142,SFO,D.J. Reed,CB,Kansas St.,2018
+143,NWE,Ja'Whaun Bentley,ILB,Purdue,2018
+144,TAM,Justin Watson,WR,Pennsylvania,2018
+145,CHI,Bilal Nichols,DT,Delaware,2018
+146,SEA,Tre Flowers,S,Oklahoma St.,2018
+147,LAR,Micah Kiser,ILB,Virginia,2018
+148,PIT,Marcus Allen,S,Penn St.,2018
+149,SEA,Michael Dickson,P,Texas,2018
+150,CLE,Genard Avery,LB,Memphis,2018
+151,CIN,Davontae Harris,CB,Illinois St.,2018
+152,TEN,Dane Cruikshank,CB,Arizona,2018
+153,DET,Tyrell Crosby,T,Oregon,2018
+154,BUF,Siran Neal,CB,Jacksonville St.,2018
+155,LAC,Scott Quessenberry,C,UCLA,2018
+156,DEN,Troy Fumagalli,TE,Wisconsin,2018
+157,MIN,Tyler Conklin,TE,Central Michigan,2018
+158,CIN,Andrew Brown,DE,Virginia,2018
+159,IND,Daurice Fountain,WR,Northern Iowa,2018
+160,LAR,Ogbonnia Okoronkwo,DE,Oklahoma,2018
+161,CAR,Jermaine Carter Jr.,LB,Maryland,2018
+162,BAL,Jordan Lasley,WR,UCLA,2018
+163,WAS,Tim Settle,DT,Virginia Tech,2018
+164,NOR,Natrell Jamerson,S,Wisconsin,2018
+165,PIT,Jaylen Samuels,TE,North Carolina St.,2018
+166,BUF,Wyatt Teller,G,Virginia Tech,2018
+167,MIN,Daniel Carlson,K,Auburn,2018
+168,SEA,Jamarco Jones,T,Ohio St.,2018
+169,IND,Jordan Wilkins,RB,Mississippi,2018
+170,CIN,Darius Phillips,CB,Western Michigan,2018
+171,DAL,Mike White,QB,Western Kentucky,2018
+172,GNB,JK Scott,P,Alabama,2018
+173,OAK,Johnny Townsend,P,Florida,2018
+174,GNB,Marquez Valdes-Scantling,WR,South Florida,2018
+175,CLE,Damion Ratley,WR,Texas A&M,2018
+176,LAR,John Kelly,RB,Tennessee,2018
+177,HOU,Duke Ejiofor,DE,Wake Forest,2018
+178,NWE,Christian Sam,ILB,Arizona St.,2018
+179,NYJ,Parry Nickerson,CB,Tulane,2018
+180,NYJ,Folorunso Fatukasi,DT,Connecticut,2018
+181,CHI,Kylie Fitts,DE,Utah,2018
+182,ARI,Christian Campbell,CB,Penn St.,2018
+183,DEN,Sam Jones,G,Arizona St.,2018
+184,SFO,Marcell Harris,S,Florida,2018
+185,IND,Deon Cain,WR,Clemson,2018
+186,SEA,Jacob Martin,LB,Temple,2018
+187,BUF,Ray-Ray McCloud,WR,Clemson,2018
+188,CLE,Simeon Thomas,CB,Louisiana,2018
+189,NOR,Kamrin Moore,CB,Boston Col.,2018
+190,BAL,DeShon Elliott,S,Texas,2018
+191,LAC,Dylan Cantrell,WR,Texas Tech,2018
+192,LAR,Jamil Demby,T,Maine,2018
+193,DAL,Chris Covington,LB,Indiana,2018
+194,ATL,Russell Gage,WR,LSU,2018
+195,LAR,Sebastian Joseph-Day,DT,Rutgers,2018
+196,KAN,Tremon Smith,WR,Central Arkansas,2018
+197,WAS,Shaun Dion Hamilton,LB,Alabama,2018
+198,KAN,Kahlil McKenzie,DT,Tennessee,2018
+199,TEN,Luke Falk,QB,Washington St.,2018
+200,ATL,Foyesade Oluokun,S,Yale,2018
+201,NOR,Boston Scott,RB,Louisiana Tech,2018
+202,TAM,Jack Cichy,ILB,Wisconsin,2018
+203,JAX,Tanner Lee,QB,Nebraska,2018
+204,NYJ,Trenton Cannon,RB,Virginia St.,2018
+205,LAR,Trevon Young,DE,Louisville,2018
+206,PHI,Matt Pryor,T,TCU,2018
+207,GNB,Equanimeous St. Brown,WR,Notre Dame,2018
+208,DAL,Cedrick Wilson Jr.,WR,Boise St.,2018
+209,MIA,Cornell Armstrong,CB,Southern Miss,2018
+210,NWE,Braxton Berrios,WR,Miami (FL),2018
+211,HOU,Jordan Thomas,TE,Mississippi St.,2018
+212,BAL,Greg Senat,T,Wagner,2018
+213,MIN,Colby Gossett,G,Appalachian St.,2018
+214,HOU,Peter Kalambayi,LB,Stanford,2018
+215,BAL,Bradley Bozeman,C,Alabama,2018
+216,OAK,Azeem Victor,LB,Washington,2018
+217,DEN,Keishawn Bierria,ILB,Washington,2018
+218,MIN,Ade Aruna,DE,Tulane,2018
+219,NWE,Danny Etling,QB,LSU,2018
+220,SEA,Alex McGough,QB,Florida International,2018
+221,IND,Matthew Adams,LB,Houston,2018
+222,HOU,Jermaine Kelly,CB,San Jose St.,2018
+223,SFO,Jullian Taylor,DT,Temple,2018
+224,CHI,Javon Wims,WR,Georgia,2018
+225,MIN,Devante Downs,LB,California,2018
+226,DEN,David Williams,RB,Arkansas,2018
+227,MIA,Quentin Poling,LB,Ohio,2018
+228,OAK,Marcell Ateman,WR,Oklahoma St.,2018
+229,MIA,Jason Sanders,K,New Mexico,2018
+230,JAX,Leon Jacobs,OLB,Wisconsin,2018
+231,LAR,Travin Howard,OLB,TCU,2018
+232,GNB,James Looney,DE,California,2018
+233,PHI,Jordan Mailata,T,0,2018
+234,CAR,Andre Smith,ILB,North Carolina,2018
+235,IND,Zaire Franklin,LB,Syracuse,2018
+236,DAL,Bo Scarbrough,RB,Alabama,2018
+237,DET,Nick Bawden,RB,San Diego St.,2018
+238,BAL,Zach Sieler,DE,Ferris St.,2018
+239,GNB,Hunter Bradley,LS,Mississippi St.,2018
+240,SFO,Richie James,WR,Middle Tenn. St.,2018
+241,WAS,Greg Stroman,CB,Virginia Tech,2018
+242,CAR,Kendrick Norton,DT,Miami (FL),2018
+243,NWE,Keion Crossen,CB,Western Carolina,2018
+244,LAR,Justin Lawler,DE,SMU,2018
+245,NOR,Will Clapp,C,LSU,2018
+246,PIT,Joshua Frazier,DT,Alabama,2018
+247,JAX,Logan Cooke,P,Mississippi St.,2018
+248,GNB,Kendall Donnerson,OLB,SE Missouri St.,2018
+249,CIN,Logan Woodside,QB,Toledo,2018
+250,NWE,Ryan Izzo,TE,Florida St.,2018
+251,LAC,Justin Jackson,RB,Northwestern,2018
+252,CIN,Rod Taylor,G,Mississippi,2018
+253,CIN,Auden Tate,WR,Florida St.,2018
+254,ARI,Korey Cunningham,T,Cincinnati,2018
+255,BUF,Austin Proehl,WR,North Carolina,2018
+256,WAS,Trey Quinn,WR,SMU,2018
+1,ARI,Kyler Murray,QB,Oklahoma,2019
+2,SFO,Nick Bosa,DE,Ohio St.,2019
+3,NYJ,Quinnen Williams,DT,Alabama,2019
+4,OAK,Clelin Ferrell,DE,Clemson,2019
+5,TAM,Devin White,LB,LSU,2019
+6,NYG,Daniel Jones,QB,Duke,2019
+7,JAX,Josh Allen,LB,Kentucky,2019
+8,DET,T.J. Hockenson,TE,Iowa,2019
+9,BUF,Ed Oliver,DT,Houston,2019
+10,PIT,Devin Bush Jr.,LB,Michigan,2019
+11,CIN,Jonah Williams,G,Alabama,2019
+12,GNB,Rashan Gary,LB,Michigan,2019
+13,MIA,Christian Wilkins,DT,Clemson,2019
+14,ATL,Chris Lindstrom,G,Boston Col.,2019
+15,WAS,Dwayne Haskins,QB,Ohio St.,2019
+16,CAR,Brian Burns,DE,Florida St.,2019
+17,NYG,Dexter Lawrence,DT,Clemson,2019
+18,MIN,Garrett Bradbury,C,North Carolina St.,2019
+19,TEN,Jeffery Simmons,DT,Mississippi St.,2019
+20,DEN,Noah Fant,TE,Iowa,2019
+21,GNB,Darnell Savage Jr.,S,Maryland,2019
+22,PHI,Andre Dillard,T,Washington St.,2019
+23,HOU,Tytus Howard,T,Alabama St.,2019
+24,OAK,Josh Jacobs,RB,Alabama,2019
+25,BAL,Marquise Brown,WR,Oklahoma,2019
+26,WAS,Montez Sweat,DE,Mississippi St.,2019
+27,OAK,Johnathan Abram,S,Mississippi St.,2019
+28,LAC,Jerry Tillery,DT,Notre Dame,2019
+29,SEA,L.J. Collier,DE,TCU,2019
+30,NYG,Deandre Baker,CB,Georgia,2019
+31,ATL,Kaleb McGary,T,Washington,2019
+32,NWE,N'Keal Harry,WR,Arizona St.,2019
+33,ARI,Byron Murphy,CB,Washington,2019
+34,IND,Rock Ya-Sin,CB,Temple,2019
+35,JAX,Jawaan Taylor,T,Florida,2019
+36,SFO,Deebo Samuel,WR,South Carolina,2019
+37,CAR,Greg Little,T,Mississippi,2019
+38,BUF,Cody Ford,T,Oklahoma,2019
+39,TAM,Sean Murphy-Bunting,CB,Central Michigan,2019
+40,OAK,Trayvon Mullen,CB,Clemson,2019
+41,DEN,Dalton Risner,T,Kansas St.,2019
+42,DEN,Drew Lock,QB,Missouri,2019
+43,DET,Jahlani Tavai,LB,Hawaii,2019
+44,GNB,Elgton Jenkins,C,Mississippi St.,2019
+45,NWE,Joejuan Williams,CB,Vanderbilt,2019
+46,CLE,Greedy Williams,CB,LSU,2019
+47,SEA,Marquise Blair,S,Utah,2019
+48,NOR,Erik McCoy,C,Texas A&M,2019
+49,IND,Ben Banogu ,LB,TCU,2019
+50,MIN,Irv Smith Jr.,TE,Alabama,2019
+51,TEN,A.J. Brown,WR,Mississippi,2019
+52,CIN,Drew Sample,TE,Washington,2019
+53,PHI,Miles Sanders,RB,Penn St.,2019
+54,HOU,Lonnie Johnson Jr.,CB,Kentucky,2019
+55,HOU,Max Scharping,T,Northern Illinois,2019
+56,KAN,Mecole Hardman,WR,Georgia,2019
+57,PHI,JJ Arcega-Whiteside,WR,Stanford,2019
+58,DAL,Trysten Hill,DT,Central Florida,2019
+59,IND,Parris Campbell,WR,Ohio St.,2019
+60,LAC,Nasir Adderley,S,Delaware,2019
+61,LAR,Taylor Rapp,S,Washington,2019
+62,ARI,Andy Isabella,WR,Massachusetts,2019
+63,KAN,Juan Thornhill,S,Virginia,2019
+64,SEA,D.K. Metcalf,WR,Mississippi,2019
+65,ARI,Zach Allen,DE,Boston Col.,2019
+66,PIT,Diontae Johnson,WR,Toledo,2019
+67,SFO,Jalen Hurd,WR,Baylor,2019
+68,NYJ,Jachai Polite,LB,Florida,2019
+69,JAX,Josh Oliver,TE,San Jose St.,2019
+70,LAR,Darrell Henderson,RB,Memphis,2019
+71,DEN,Dre'Mont Jones,DT,Ohio St.,2019
+72,CIN,Germaine Pratt,LB,North Carolina St.,2019
+73,CHI,David Montgomery,RB,Iowa St.,2019
+74,BUF,Devin Singletary,RB,Florida Atlantic,2019
+75,GNB,Jace Sternberger,TE,Texas A&M,2019
+76,WAS,Terry McLaurin,WR,Ohio St.,2019
+77,NWE,Chase Winovich,DE,Michigan,2019
+78,MIA,Michael Deiter,G,Wisconsin,2019
+79,LAR,David Long,CB,Michigan,2019
+80,CLE,Sione Takitaki,LB,BYU,2019
+81,DET,Will Harris,S,Boston Col.,2019
+82,TEN,Nate Davis,G,Charlotte,2019
+83,PIT,Justin Layne,CB,Michigan St.,2019
+84,KAN,Khalen Saunders,DT,Western Illinois,2019
+85,BAL,Jaylon Ferguson,DE,Louisiana Tech,2019
+86,HOU,Kahale Warring,TE,San Diego St.,2019
+87,NWE,Damien Harris,RB,Alabama,2019
+88,SEA,Cody Barton,LB,Utah,2019
+89,IND,Bobby Okereke,LB,Stanford,2019
+90,DAL,Connor McGovern,G,Penn St.,2019
+91,LAC,Trey Pipkins,T,Sioux Falls,2019
+92,NYJ,Chuma Edoga,T,USC,2019
+93,BAL,Miles Boykin,WR,Notre Dame,2019
+94,TAM,Jamel Dean,CB,Auburn,2019
+95,NYG,Oshane Ximines,DE,Old Dominion,2019
+96,BUF,Dawson Knox,TE,Mississippi,2019
+97,LAR,Bobby Evans,T,Oklahoma,2019
+98,JAX,Quincy Williams,S,Murray St.,2019
+99,TAM,Mike Edwards,S,Kentucky,2019
+100,CAR,Will Grier,QB,West Virginia,2019
+101,NWE,Yodny Cajuste,T,West Virginia,2019
+102,MIN,Alexander Mattison,RB,Boise St.,2019
+103,ARI,Hakeem Butler,WR,Iowa St.,2019
+104,CIN,Ryan Finley,QB,North Carolina St.,2019
+105,NOR,C.J. Gardner-Johnson,S,Florida,2019
+106,OAK,Maxx Crosby,DE,East. Michigan,2019
+107,TAM,Anthony Nelson,DE,Iowa,2019
+108,NYG,Julian Love,CB,Notre Dame,2019
+109,IND,Khari Willis,S,Michigan St.,2019
+110,SFO,Mitch Wishnowsky,P,Utah,2019
+111,ATL,Kendall Sheffield,CB,Ohio St.,2019
+112,WAS,Bryce Love,RB,Stanford,2019
+113,BAL,Justice Hill,RB,Oklahoma St.,2019
+114,MIN,Dru Samia,G,Oklahoma,2019
+115,CAR,Christian Miller,LB,Alabama,2019
+116,TEN,Amani Hooker,S,Iowa,2019
+117,DET,Austin Bryant,DE,Clemson,2019
+118,NWE,Hjalte Froholdt,G,Arkansas,2019
+119,CLE,Sheldrick Redwine,S,Miami (FL),2019
+120,SEA,Gary Jennings Jr,WR,West Virginia,2019
+121,NYJ,Trevon Wesco,TE,West Virginia,2019
+122,PIT,Benny Snell Jr.,RB,Kentucky,2019
+123,BAL,Ben Powers,G,Oklahoma,2019
+124,SEA,Phil Haynes,G,Wake Forest,2019
+125,CIN,Renell Wren,DT,Arizona St.,2019
+126,CHI,Riley Ridley,WR,Georgia,2019
+127,BAL,Iman Marshall,CB,USC,2019
+128,DAL,Tony Pollard,RB,Memphis,2019
+129,OAK,Isaiah Johnson,CB,Houston,2019
+130,LAC,Drue Tranquill,LB,Notre Dame,2019
+131,WAS,Wes Martin,G,Indiana,2019
+132,SEA,Ugo Amadi,S,Oregon,2019
+133,NWE,Jarrett Stidham,QB,Auburn,2019
+134,LAR,Greg Gaines,DT,Washington,2019
+135,ATL,John Cominsky,DE,Charleston (WV),2019
+136,CIN,Michael Jordan,G,Ohio St.,2019
+137,OAK,Foster Moreau,TE,LSU,2019
+138,PHI,Shareef Miller,DE,Penn St.,2019
+139,ARI,Deionte Thompson,S,Alabama,2019
+140,JAX,Ryquell Armstead,RB,Temple,2019
+141,PIT,Zach Gentry,TE,Michigan,2019
+142,SEA,Ben Burr-Kirven,LB,Washington,2019
+143,NYG,Ryan Connelly,LB,Wisconsin,2019
+144,IND,Marvell Tell III,S,USC,2019
+145,TAM,Matt Gay,K,Utah,2019
+146,DET,Amani Oruwariye,CB,Penn St.,2019
+147,BUF,Vosean Joseph,LB,Florida,2019
+148,SFO,Dre Greenlaw,LB,Arkansas,2019
+149,OAK,Hunter Renfrow,WR,Clemson,2019
+150,GNB,Kingsley Keke,DT,Texas A&M,2019
+151,MIA,Andrew Van Ginkel,LB,Wisconsin,2019
+152,ATL,Qadree Ollison,RB,Pittsburgh,2019
+153,WAS,Ross Pierschbacher,G,Alabama,2019
+154,CAR,Jordan Scarlett,RB,Florida,2019
+155,CLE,Mack Wilson,LB,Alabama,2019
+156,DEN,Justin Hollins,LB,Oregon,2019
+157,NYJ,Blake Cashman,LB,Minnesota,2019
+158,DAL,Michael Jackson,CB,Miami (FL),2019
+159,NWE,Byron Cowart,DT,Maryland,2019
+160,BAL,Daylon Mack,DT,Texas A&M,2019
+161,HOU,Charles Omenihu,DE,Texas,2019
+162,MIN,Cameron Smith,LB,USC,2019
+163,NWE,Jake Bailey,P,Stanford,2019
+164,IND,E.J. Speed,LB,Tarleton St.,2019
+165,DAL,Joe Jackson,DE,Miami (FL),2019
+166,LAC,Easton Stick,QB,North Dakota St.,2019
+167,PHI,Clayton Thorson,QB,Northwestern,2019
+168,TEN,D'Andre Walker,LB,Georgia,2019
+169,LAR,David Edwards,T,Wisconsin,2019
+170,CLE,Austin Seibert,K,Oklahoma,2019
+171,NYG,Darius Slayton,WR,Auburn,2019
+172,ATL,Jordan Miller,CB,Washington,2019
+173,WAS,Cole Holcomb,LB,North Carolina,2019
+174,ARI,KeeSean Johnson,WR,Fresno St.,2019
+175,PIT,Sutton Smith,DE,Northern Illinois,2019
+176,SFO,Kaden Smith,TE,Stanford,2019
+177,NOR,Saquan Hampton,S,Rutgers,2019
+178,JAX,Gardner Minshew II,QB,Washington St.,2019
+179,ARI,Lamont Gaillard,C,Georgia,2019
+180,NYG,Corey Ballentine,CB,Washburn,2019
+181,BUF,Jaquan Johnson,CB,Miami (FL),2019
+182,CIN,Trayveon Williams,RB,Texas A&M,2019
+183,SFO,Justin Skule,T,Vanderbilt,2019
+184,DET,Travis Fulgham,WR,Old Dominion,2019
+185,GNB,Ka'dar Hollman,CB,Toledo,2019
+186,DET,Ty Johnson,RB,Maryland,2019
+187,DEN,Juwann Winfree,WR,Colorado,2019
+188,TEN,David Long,LB,West Virginia,2019
+189,CLE,Drew Forbes,T,SE Missouri St.,2019
+190,MIN,Armon Watts,DT,Arkansas,2019
+191,MIN,Marcus Epps,S,Wyoming,2019
+192,PIT,Isaiah Buggs,DT,Alabama,2019
+193,MIN,Oli Udoh,T,Elon,2019
+194,GNB,Dexter Williams,RB,Notre Dame,2019
+195,HOU,Xavier Crawford,CB,Central Michigan,2019
+196,NYJ,Blessuan Austin,CB,Rutgers,2019
+197,BAL,Trace McSorley,QB,Penn St.,2019
+198,SFO,Tim Harris,CB,Virginia,2019
+199,IND,Gerri Green,DE,Mississippi St.,2019
+200,LAC,Emeke Egbule,LB,Houston,2019
+201,KAN,Rashad Fenton,CB,South Carolina,2019
+202,MIA,Isaiah Prince,T,Ohio St.,2019
+203,ATL,Marcus Green,WR,La-Monroe,2019
+204,SEA,Travis Homer,RB,Miami (FL),2019
+205,CHI,Duke Shelley,CB,Kansas St.,2019
+206,WAS,Kelvin Harmon,WR,North Carolina St.,2019
+207,PIT,Ulysees Gilbert,LB,Akron,2019
+208,TAM,Scott Miller,WR,Bowling Green,2019
+209,SEA,Demarcus Christmas,DT,Florida St.,2019
+210,CIN,Deshaun Davis,LB,Auburn,2019
+211,CIN,Rodney Anderson,RB,Oklahoma,2019
+212,CAR,Dennis Daley,T,South Carolina,2019
+213,DAL,Donovan Wilson,S,Texas A&M,2019
+214,KAN,Darwin Thompson,RB,Utah St.,2019
+215,TAM,Terry Beckner,DT,Missouri,2019
+216,KAN,Nick Allegretti,G,Illinois,2019
+217,MIN,Kris Boyd,CB,Texas,2019
+218,DAL,Mike Weber,RB,Ohio St.,2019
+219,PIT,Derwin Gray,T,Maryland,2019
+220,HOU,Cullen Gillaspia,RB,Texas A&M,2019
+221,CLE,Donnie Lewis Jr.,CB,Tulane,2019
+222,CHI,Kerrith Whyte Jr,RB,Florida Atlantic,2019
+223,CIN,Jordan Brown,CB,South Dakota St.,2019
+224,DET,Isaac Nauta,TE,Georgia,2019
+225,BUF,Darryl Johnson,DE,North Carolina A&T,2019
+226,GNB,Ty Summers,LB,TCU,2019
+227,WAS,Jimmy Moreland,CB,James Madison,2019
+228,BUF,Tommy Sweeney,TE,Boston Col.,2019
+229,DET,P.J. Johnson,DE,Arizona,2019
+230,OAK,Quinton Bell,DE,Prairie View A&M,2019
+231,NOR,Alizé Mack,TE,Notre Dame,2019
+232,NYG,George Asafo-Adjei,T,Kentucky,2019
+233,MIA,Chandler Cox,RB,Auburn,2019
+234,MIA,Myles Gaskin,RB,Washington,2019
+235,JAX,Dontavius Russell,DT,Auburn,2019
+236,SEA,John Ursua,WR,Hawaii,2019
+237,CAR,Terry Godwin,WR,Georgia,2019
+238,CHI,Stephen Denmark,CB,Valdosta St.,2019
+239,MIN,Dillon Mitchell,WR,Oregon,2019
+240,IND,Jackson Barton,T,Utah,2019
+241,DAL,Jalen Jelks,DE,Oregon,2019
+242,LAC,Cortez Broughton,DT,Cincinnati,2019
+243,LAR,Nick Scott,S,Penn St.,2019
+244,NOR,Kaden Elliss,LB,Idaho,2019
+245,NYG,Chris Slayton,DT,Syracuse,2019
+246,IND,Javon Patterson,C,Mississippi,2019
+247,MIN,Olabisi Johnson,WR,Colorado St.,2019
+248,ARI,Joshua Miles,T,Morgan St.,2019
+249,ARI,Michael Dogbe,DE,Temple,2019
+250,MIN,Austin Cutting,LS,Air Force,2019
+251,LAR,Dakota Allen,LB,Texas Tech,2019
+252,NWE,Ken Webster,CB,Mississippi,2019
+253,WAS,Jordan Brailford,DE,Oklahoma St.,2019
+254,ARI,Caleb Wilson,TE,UCLA,2019
+1,CIN,Joe Burrow,QB,LSU,2020
+2,WAS,Chase Young,DE,Ohio St.,2020
+3,DET,Jeff Okudah,CB,Ohio St.,2020
+4,NYG,Andrew Thomas,T,Georgia,2020
+5,MIA,Tua Tagovailoa,QB,Alabama,2020
+6,LAC,Justin Herbert,QB,Oregon,2020
+7,CAR,Derrick Brown,DT,Auburn,2020
+8,ARI,Isaiah Simmons,LB,Clemson,2020
+9,JAX,C.J. Henderson,CB,Florida,2020
+10,CLE,Jedrick Wills Jr.,T,Alabama,2020
+11,NYJ,Mekhi Becton,T,Louisville,2020
+12,LVR,Henry Ruggs III,WR,Alabama,2020
+13,TAM,Tristan Wirfs,T,Iowa,2020
+14,SFO,Javon Kinlaw,DT,South Carolina,2020
+15,DEN,Jerry Jeudy,WR,Alabama,2020
+16,ATL,AJ Terrell,CB,Clemson,2020
+17,DAL,CeeDee Lamb,WR,Oklahoma,2020
+18,MIA,Austin Jackson,T,USC,2020
+19,LVR,Damon Arnette,CB,Ohio St.,2020
+20,JAX,K'Lavon Chaisson,DE,LSU,2020
+21,PHI,Jalen Reagor,WR,TCU,2020
+22,MIN,Justin Jefferson,WR,LSU,2020
+23,LAC,Kenneth Murray,LB,Oklahoma,2020
+24,NOR,Cesar Ruiz,C,Michigan,2020
+25,SFO,Brandon Aiyuk,WR,Arizona St.,2020
+26,GNB,Jordan Love,QB,Utah St.,2020
+27,SEA,Jordyn Brooks,LB,Texas Tech,2020
+28,BAL,Patrick Queen,LB,LSU,2020
+29,TEN,Isaiah Wilson,T,Georgia,2020
+30,MIA,Noah Igbinoghene,CB,Auburn,2020
+31,MIN,Jeff Gladney,CB,TCU,2020
+32,KAN,Clyde Edwards-Helaire,RB,LSU,2020
+33,CIN,Tee Higgins,WR,Clemson,2020
+34,IND,Michael Pittman Jr.,WR,USC,2020
+35,DET,D'Andre Swift,RB,Georgia,2020
+36,NYG,Xavier McKinney,S,Alabama,2020
+37,NWE,Kyle Dugger,S,Lenoir-Rhyne,2020
+38,CAR,Yetur Gross-Matos,DE,Penn St.,2020
+39,MIA,Robert Hunt,G,Louisiana,2020
+40,HOU,Ross Blacklock,DT,TCU,2020
+41,IND,Jonathan Taylor,RB,Wisconsin,2020
+42,JAX,Laviska Shenault Jr.,WR,Colorado,2020
+43,CHI,Cole Kmet,TE,Notre Dame,2020
+44,CLE,Grant Delpit,S,LSU,2020
+45,TAM,Antoine Winfield Jr.,S,Minnesota,2020
+46,DEN,KJ Hamler,WR,Penn St.,2020
+47,ATL,Marlon Davidson,DE,Auburn,2020
+48,SEA,Darrell Taylor,DE,Tennessee,2020
+49,PIT,Chase Claypool,WR,Notre Dame,2020
+50,CHI,Jaylon Johnson,CB,Utah,2020
+51,DAL,Trevon Diggs,CB,Alabama,2020
+52,LAR,Cam Akers,RB,Florida St.,2020
+53,PHI,Jalen Hurts,QB,Oklahoma,2020
+54,BUF,A.J. Epenesa,DE,Iowa,2020
+55,BAL,J.K. Dobbins,RB,Ohio St.,2020
+56,MIA,Raekwon Davis,DT,Alabama,2020
+57,LAR,Van Jefferson,WR,Florida,2020
+58,MIN,Ezra Cleveland,T,Boise St.,2020
+59,NYJ,Denzel Mims,WR,Baylor,2020
+60,NWE,Josh Uche,LB,Michigan,2020
+61,TEN,Kristian Fulton,CB,LSU,2020
+62,GNB,AJ Dillon ,RB,Boston Col.,2020
+63,KAN,Willie Gay Jr.,LB,Mississippi St.,2020
+64,CAR,Jeremy Chinn,S,Southern Illinois,2020
+65,CIN,Logan Wilson,LB,Wyoming,2020
+66,WAS,Antonio Gibson ,RB,Memphis,2020
+67,DET,Julian Okwara,DE,Notre Dame,2020
+68,NYJ,Ashtyn Davis,S,California,2020
+69,SEA,Damien Lewis,G,LSU,2020
+70,MIA,Brandon Jones,S,Texas,2020
+71,BAL,Justin Madubuike,DT,Texas A&M,2020
+72,ARI,Josh Jones,T,Houston,2020
+73,JAX,DaVon Hamilton,DT,Ohio St.,2020
+74,NOR,Zack Baun,LB,Wisconsin,2020
+75,DET,Jonah Jackson,G,Ohio St.,2020
+76,TAM,Ke'Shawn Vaughn,RB,Illinois,2020
+77,DEN,Michael Ojemudia,CB,Iowa,2020
+78,ATL,Matt Hennessy,C,Temple,2020
+79,NYJ,Jabari Zuniga,DE,Florida,2020
+80,LVR,Lynn Bowden Jr.,WR,Kentucky,2020
+81,LVR,Bryan Edwards,WR,South Carolina,2020
+82,DAL,Neville Gallimore,DT,Oklahoma,2020
+83,DEN,Lloyd Cushenberry III,C,LSU,2020
+84,LAR,Terrell Lewis,LB,Alabama,2020
+85,IND,Julian Blackmon,S,Utah,2020
+86,BUF,Zack Moss,RB,Utah,2020
+87,NWE,Anfernee Jennings,LB,Alabama,2020
+88,CLE,Jordan Elliott,DT,Texas,2020
+89,MIN,Cameron Dantzler,CB,Mississippi St.,2020
+90,HOU,Jonathan Greenard,DE,Florida,2020
+91,NWE,Devin Asiasi,TE,UCLA,2020
+92,BAL,Devin Duvernay,WR,Texas,2020
+93,TEN,Darrynton Evans,RB,Appalachian St.,2020
+94,GNB,Josiah Deguara,TE,Cincinnati,2020
+95,DEN,McTelvin Agim,DT,Arkansas,2020
+96,KAN,Lucas Niang,T,TCU,2020
+97,CLE,Jacob Phillips,LB,LSU,2020
+98,BAL,Malik Harrison,LB,Ohio St.,2020
+99,NYG,Matt Peart,T,Connecticut,2020
+100,LVR,Tanner Muse,S,Clemson,2020
+101,NWE,Dalton Keene,TE,Virginia Tech,2020
+102,PIT,Alex Highsmith,LB,Charlotte,2020
+103,PHI,Davion Taylor,LB,Colorado,2020
+104,LAR,Terrell Burgess ,S,Utah,2020
+105,NOR,Adam Trautman,TE,Dayton,2020
+106,BAL,Tyre Phillips,T,Mississippi St.,2020
+107,CIN,Akeem Davis-Gaither,LB,Appalachian St.,2020
+108,WAS,Saahdiq Charles,T,LSU,2020
+109,LVR,John Simpson,G,Clemson,2020
+110,NYG,Darnay Holmes,CB,UCLA,2020
+111,MIA,Solomon Kindley,G,Georgia,2020
+112,LAC,Joshua Kelley,RB,UCLA,2020
+113,CAR,Troy Pride Jr.,CB,Notre Dame,2020
+114,ARI,Leki Fotu,DT,Utah,2020
+115,CLE,Harrison Bryant,TE,Florida Atlantic,2020
+116,JAX,Ben Bartch,G,Saint John's (MN),2020
+117,MIN,D.J. Wonnum,DE,South Carolina,2020
+118,DEN,Albert Okwuegbunam,TE,Missouri,2020
+119,ATL,Mykal Walker,LB,Fresno St.,2020
+120,NYJ,La'Mical Perine,RB,Florida,2020
+121,DET,Logan Stenberg,G,Kentucky,2020
+122,IND,Jacob Eason,QB,Washington,2020
+123,DAL,Reggie Robinson II,CB,Tulsa,2020
+124,PIT,Anthony McFarland Jr.,RB,Maryland,2020
+125,NYJ,James Morgan,QB,Florida International,2020
+126,HOU,Charlie Heck,T,North Carolina,2020
+127,PHI,K'Von Wallace,S,Clemson,2020
+128,BUF,Gabriel Davis,WR,Central Florida,2020
+129,NYJ,Cameron Clark,T,Charlotte,2020
+130,MIN,James Lynch,DT,Baylor,2020
+131,ARI,Rashard Lawrence,DT,LSU,2020
+132,MIN,Troy Dye,LB,Oregon,2020
+133,SEA,Colby Parkinson,TE,Stanford,2020
+134,ATL,Jaylinn Hawkins,S,California,2020
+135,PIT,Kevin Dotson,G,Louisiana,2020
+136,LAR,Brycen Hopkins,TE,Purdue,2020
+137,JAX,Josiah Scott,CB,Michigan St.,2020
+138,KAN,L'Jarius Sneed,S,Louisiana Tech,2020
+139,LVR,Amik Robertson,CB,Louisiana Tech,2020
+140,JAX,Shaquille Quarterman,LB,Miami (FL),2020
+141,HOU,John Reid,CB,Penn St.,2020
+142,WAS,Antonio Gandy-Golden,WR,Liberty,2020
+143,BAL,Ben Bredeson,G,Michigan,2020
+144,SEA,DeeJay Dallas,RB,Miami (FL),2020
+145,PHI,Jack Driscoll,G,Auburn,2020
+146,DAL,Tyler Biadasz,C,Wisconsin,2020
+147,CIN,Khalid Kareem,DE,Notre Dame,2020
+148,SEA,Alton Robinson,DE,Syracuse,2020
+149,IND,Danny Pinter,G,Ball St.,2020
+150,NYG,Shane Lemieux,G,Oregon,2020
+151,LAC,Joe Reed,WR,Virginia,2020
+152,CAR,Kenny Robinson Jr.,S,West Virginia,2020
+153,SFO,Colton McKivitz,T,West Virginia,2020
+154,MIA,Jason Strowbridge,DE,North Carolina,2020
+155,CHI,Trevis Gipson,DE,Tulsa,2020
+156,WAS,Keith Ismael,C,San Diego St.,2020
+157,JAX,Daniel Thomas,S,Auburn,2020
+158,NYJ,Bryce Hall,CB,Virginia,2020
+159,NWE,Justin Rohrwasser,K,Marshall,2020
+160,CLE,Nick Harris,C,Washington,2020
+161,TAM,Tyler Johnson,WR,Minnesota,2020
+162,WAS,Khaleke Hudson,LB,Michigan,2020
+163,CHI,Kindle Vildor,CB,Georgia Southern,2020
+164,MIA,Curtis Weaver,DE,Boise St.,2020
+165,JAX,Collin Johnson,WR,Texas,2020
+166,DET,Quintez Cephus,WR,Wisconsin,2020
+167,BUF,Jake Fromm,QB,Georgia,2020
+168,PHI,John Hightower,WR,Boise St.,2020
+169,MIN,Harrison Hand,CB,Temple,2020
+170,BAL,Broderick Washington Jr.,DT,Texas Tech,2020
+171,HOU,Isaiah Coulter,WR,Rhode Island,2020
+172,DET,Jason Huntley,RB,New Mexico St.,2020
+173,CHI,Darnell Mooney,WR,Tulane,2020
+174,TEN,Larrell Murchison,DT,North Carolina St.,2020
+175,GNB,Kamal Martin,LB,Minnesota,2020
+176,MIN,K.J. Osborn,WR,Miami (FL),2020
+177,KAN,Michael Danna,DE,Michigan,2020
+178,DEN,Justin Strnad,LB,Wake Forest,2020
+179,DAL,Bradlee Anae,DE,Utah,2020
+180,CIN,Hakeem Adeniji,T,Kansas,2020
+181,DEN,Netane Muti,G,Fresno St.,2020
+182,NWE,Michael Onwenu,G,Michigan,2020
+183,NYG,Cam Brown,LB,Penn St.,2020
+184,CAR,Bravvion Roy,DT,Baylor,2020
+185,MIA,Blake Ferguson,LS,LSU,2020
+186,LAC,Alohi Gilman,S,Notre Dame,2020
+187,CLE,Donovan Peoples-Jones,WR,Michigan,2020
+188,BUF,Tyler Bass,K,Georgia Southern,2020
+189,JAX,Jake Luton,QB,Oregon St.,2020
+190,SFO,Charlie Woerner,TE,Georgia,2020
+191,NYJ,Braden Mann,P,Texas A&M,2020
+192,GNB,Jon Runyan Jr.,T,Michigan,2020
+193,IND,Robert Windsor,DT,Penn St.,2020
+194,TAM,Khalil Davis,DT,Nebraska,2020
+195,NWE,Justin Herron,T,Wake Forest,2020
+196,PHI,Shaun Bradley,LB,Temple,2020
+197,DET,John Penisini,DT,Utah,2020
+198,PIT,Antoine Brooks Jr.,S,Maryland,2020
+199,LAR,Jordan Fuller,S,Ohio St.,2020
+200,PHI,Quez Watkins,WR,Southern Miss,2020
+201,BAL,James Proche,WR,SMU,2020
+202,ARI,Evan Weaver,LB,California,2020
+203,MIN,Blake Brandel,T,Oregon St.,2020
+204,NWE,Cassh Maluia,LB,Wyoming,2020
+205,MIN,Josh Metellus,S,Michigan,2020
+206,JAX,Tyler Davis,TE,Georgia Tech,2020
+207,BUF,Isaiah Hodgins,WR,Oregon St.,2020
+208,GNB,Jake Hanson,C,Oregon,2020
+209,GNB,Simon Stepaniak,T,Indiana,2020
+210,PHI,Prince Tega Wanogho,T,Auburn,2020
+211,IND,Isaiah Rodgers,CB,Massachusetts,2020
+212,IND,Dezmon Patmon,WR,Washington St.,2020
+213,IND,Jordan Glasgow,LB,Michigan,2020
+214,SEA,Freddie Swain,WR,Florida,2020
+215,CIN,Markus Bailey,LB,Purdue,2020
+216,WAS,Kamren Curl,S,Arkansas,2020
+217,SFO,Jauan Jennings,WR,Tennessee,2020
+218,NYG,Carter Coughlin,LB,Minnesota,2020
+219,BAL,Geno Stone,S,Iowa,2020
+220,LAC,K.J. Hill,WR,Ohio St.,2020
+221,CAR,Stantley Thomas-Oliver,CB,Florida International,2020
+222,ARI,Eno Benjamin,RB,Arizona St.,2020
+223,JAX,Chris Claybrooks,CB,Memphis,2020
+224,TEN,Cole McDonald,QB,Hawaii,2020
+225,MIN,Kenny Willekes,DE,Michigan St.,2020
+226,CHI,Arlington Hambright,T,Colorado,2020
+227,CHI,Lachavious Simmons,G,Tennessee St.,2020
+228,ATL,Sterling Hofrichter,P,Syracuse,2020
+229,WAS,James Smith-Williams,DE,North Carolina St.,2020
+230,NWE,Dustin Woodard,C,Memphis,2020
+231,DAL,Ben DiNucci,QB,James Madison,2020
+232,PIT,Carlos Davis,DT,Nebraska,2020
+233,PHI,Casey Toohill,DE,Stanford,2020
+234,LAR,Clay Johnston,LB,Baylor,2020
+235,DET,Jashon Cornell,DT,Ohio St.,2020
+236,GNB,Vernon Scott,S,TCU,2020
+237,KAN,Thakarius Keyes,CB,Tulane,2020
+238,NYG,T.J. Brunson,LB,South Carolina,2020
+239,BUF,Dane Jackson,CB,Pittsburgh,2020
+240,NOR,Tommy Stevens,QB,Mississippi St.,2020
+241,TAM,Chapelle Russell,LB,Temple,2020
+242,GNB,Jonathan Garvin,DE,Miami (FL),2020
+243,TEN,Chris Jackson,S,Marshall,2020
+244,MIN,Nate Stanley,QB,Iowa,2020
+245,TAM,Raymond Calais,RB,Louisiana,2020
+246,MIA,Malcolm Perry,RB,Navy,2020
+247,NYG,Chris Williamson,CB,Minnesota,2020
+248,LAR,Sam Sloman,K,Miami (OH),2020
+249,MIN,Brian Cole II,S,Mississippi St.,2020
+250,LAR,Tremayne Anchrum,G,Clemson,2020
+251,SEA,Stephen Sullivan,TE,LSU,2020
+252,DEN,Tyrie Cleveland,WR,Florida,2020
+253,MIN,Kyle Hinton,G,Washburn,2020
+254,DEN,Derrek Tuszka,LB,North Dakota St.,2020
+255,NYG,Tae Crowder,LB,Georgia,2020
+1,JAX,Trevor Lawrence,QB,Clemson,2021
+2,NYJ,Zach Wilson,QB,BYU,2021
+3,SFO,Trey Lance,QB,North Dakota St.,2021
+4,ATL,Kyle Pitts,TE,Florida,2021
+5,CIN,Ja'Marr Chase,WR,LSU,2021
+6,MIA,Jaylen Waddle,WR,Alabama,2021
+7,DET,Penei Sewell,OL,Oregon,2021
+8,CAR,Jaycee Horn,DB,South Carolina,2021
+9,DEN,Patrick Surtain II,DB,Alabama,2021
+10,PHI,DeVonta Smith,WR,Alabama,2021
+11,CHI,Justin Fields,QB,Ohio St.,2021
+12,DAL,Micah Parsons,LB,Penn St.,2021
+13,LAC,Rashawn Slater,OL,Northwestern,2021
+14,NYJ,Alijah Vera-Tucker,OL,USC,2021
+15,NWE,Mac Jones,QB,Alabama,2021
+16,ARI,Zaven Collins,LB,Tulsa,2021
+17,LVR,Alex Leatherwood,OL,Alabama,2021
+18,MIA,Jaelan Phillips,DL,Miami (FL),2021
+19,WAS,Jamin Davis,LB,Kentucky,2021
+20,NYG,Kadarius Toney,WR,Florida,2021
+21,IND,Kwity Paye,DL,Michigan,2021
+22,TEN,Caleb Farley,DB,Virginia Tech,2021
+23,MIN,Christian Darrisaw,OL,Virginia Tech,2021
+24,PIT,Najee Harris,RB,Alabama,2021
+25,JAX,Travis Etienne,RB,Clemson,2021
+26,CLE,Greg Newsome II,DB,Northwestern,2021
+27,BAL,Rashod Bateman,WR,Minnesota,2021
+28,NOR,Payton Turner,DE,Houston,2021
+29,GNB,Eric Stokes,DB,Georgia,2021
+30,BUF,Gregory Rousseau,DL,Miami (FL),2021
+31,BAL,Odafe Oweh ,DE,Penn St.,2021
+32,TAM,Joe Tryon-Shoyinka,OLB,Washington,2021
+33,JAX,Tyson Campbell,DB,Georgia,2021
+34,NYJ,Elijah Moore,WR,Mississippi,2021
+35,DEN,Javonte Williams,RB,North Carolina,2021
+36,MIA,Jevon Holland,S,Oregon,2021
+37,PHI,Landon Dickerson,OL,Alabama,2021
+38,NWE,Christian Barmore,DL,Alabama,2021
+39,CHI,Teven Jenkins,OL,Oklahoma St.,2021
+40,ATL,Richie Grant,DB,Central Florida,2021
+41,DET,Levi Onwuzurike,DL,Washington,2021
+42,MIA,Liam Eichenberg,OL,Notre Dame,2021
+43,LVR,Tre'von Moehrig,S,TCU,2021
+44,DAL,Kelvin Joseph,DB,Kentucky,2021
+45,JAX,Walker Little,T,Stanford,2021
+46,CIN,Jackson Carman,T,Clemson,2021
+47,LAC,Asante Samuel Jr.,DB,Florida St.,2021
+48,SFO,Aaron Banks,OL,Notre Dame,2021
+49,ARI,Rondale Moore,WR,Purdue,2021
+50,NYG,Azeez Ojulari,OLB,Georgia,2021
+51,WAS,Samuel Cosmi,OL,Texas,2021
+52,CLE,Jeremiah Owusu-Koramoah,LB,Notre Dame,2021
+53,TEN,Dillon Radunz,T,North Dakota St.,2021
+54,IND,Dayo Odeyingbo,DL,Vanderbilt,2021
+55,PIT,Pat Freiermuth,TE,Penn St.,2021
+56,SEA,D'Wayne Eskridge,WR,Western Michigan,2021
+57,LAR,Tutu Atwell,WR,Louisville,2021
+58,KAN,Nick Bolton,LB,Missouri,2021
+59,CAR,Terrace Marshall Jr.,WR,LSU,2021
+60,NOR,Pete Werner,LB,Ohio St.,2021
+61,BUF,Boogie Basham,DL,Wake Forest,2021
+62,GNB,Josh Myers,C,Ohio St.,2021
+63,KAN,Creed Humphrey,OL,Oklahoma,2021
+64,TAM,Kyle Trask,QB,Florida,2021
+65,JAX,Andre Cisco,DB,Syracuse,2021
+66,MIN,Kellen Mond,QB,Texas A&M,2021
+67,HOU,Davis Mills,QB,Stanford,2021
+68,ATL,Jalen Mayfield,OL,Michigan,2021
+69,CIN,Joseph Ossai,LB,Texas,2021
+70,CAR,Brady Christensen,OL,BYU,2021
+71,NYG,Aaron Robinson,DB,Central Florida,2021
+72,DET,Alim McNeill,DT,North Carolina St.,2021
+73,PHI,Milton Williams,DL,Louisiana Tech,2021
+74,WAS,Benjamin St-Juste,DB,Minnesota,2021
+75,DAL,Osa Odighizuwa,DL,UCLA,2021
+76,NOR,Paulson Adebo,CB,Stanford,2021
+77,LAC,Josh Palmer,WR,Tennessee,2021
+78,MIN,Chazz Surratt,LB,North Carolina,2021
+79,LVR,Malcolm Koonce,DE,Buffalo,2021
+80,LVR,Divine Deablo,DB,Virginia Tech,2021
+81,MIA,Hunter Long,TE,Boston Col.,2021
+82,WAS,Dyami Brown,WR,North Carolina,2021
+83,CAR,Tommy Tremble,TE,Notre Dame,2021
+84,DAL,Chauncey Golston,DL,Iowa,2021
+85,GNB,Amari Rodgers,WR,Clemson,2021
+86,MIN,Wyatt Davis,OL,Ohio St.,2021
+87,PIT,Kendrick Green,OL,Illinois,2021
+88,SFO,Trey Sermon,RB,Ohio St.,2021
+89,HOU,Nico Collins,WR,Michigan,2021
+90,MIN,Patrick Jones II,DL,Pittsburgh,2021
+91,CLE,Anthony Schwartz,WR,Auburn,2021
+92,TEN,Monty Rice,LB,Georgia,2021
+93,BUF,Spencer Brown,OL,Northern Iowa,2021
+94,BAL,Ben Cleveland,OL,Georgia,2021
+95,TAM,Robert Hainsey,OL,Notre Dame,2021
+96,NWE,Ronnie Perkins,DE,Oklahoma,2021
+97,LAC,Tre' McKitty,TE,Georgia,2021
+98,DEN,Quinn Meinerz,C,Wisconsin–Whitewater,2021
+99,DAL,Nahshon Wright,DB,Oregon St.,2021
+100,TEN,Elijah Molden,DB,Washington,2021
+101,DET,Ifeatu Melifonwu,DB,Syracuse,2021
+102,SFO,Ambry Thomas,DB,Michigan,2021
+103,LAR,Ernest Jones,LB,South Carolina,2021
+104,BAL,Brandon Stephens,CB,SMU,2021
+105,DEN,Baron Browning,LB,Ohio St.,2021
+106,JAX,Jay Tufele,DL,USC,2021
+107,NYJ,Michael Carter,RB,North Carolina,2021
+108,ATL,Darren Hall,CB,San Diego St.,2021
+109,TEN,Dez Fitzpatrick,WR,Louisville,2021
+110,CLE,James Hudson,OL,Cincinnati,2021
+111,CIN,Cameron Sample,DE,Tulane,2021
+112,DET,Amon-Ra St. Brown,WR,USC,2021
+113,DET,Derrick Barnes,DE,Purdue,2021
+114,ATL,Drew Dalman,C,Stanford,2021
+115,DAL,Jabril Cox,LB,LSU,2021
+116,NYG,Elerson Smith,DL,Northern Iowa,2021
+117,LAR,Bobby Brown,DL,Texas A&M,2021
+118,LAC,Chris Rumph,DE,Duke,2021
+119,MIN,Kene Nwangwu,RB,Iowa St.,2021
+120,NWE,Rhamondre Stevenson,RB,Oklahoma,2021
+121,JAX,Jordan Smith,OLB,Ala-Birmingham,2021
+122,CIN,Tyler Shelvin,DT,LSU,2021
+123,PHI,Zech McPhearson,DB,Texas Tech,2021
+124,WAS,John Bates,TE,Boise St.,2021
+125,MIN,Camryn Bynum,CB,California,2021
+126,CAR,Chuba Hubbard,RB,Oklahoma St.,2021
+127,IND,Kylen Granson,TE,SMU,2021
+128,PIT,Dan Moore,OL,Texas A&M,2021
+129,TAM,Jaelon Darden,WR,North Texas,2021
+130,LAR,Robert Rochell,DB,Central Arkansas,2021
+131,BAL,Tylan Wallace,WR,Oklahoma St.,2021
+132,CLE,Tommy Togiai,DT,Ohio St.,2021
+133,NOR,Ian Book,QB,Notre Dame,2021
+134,MIN,Janarius Robinson,DE,Florida St.,2021
+135,TEN,Rashad Weaver,DL,Pittsburgh,2021
+136,ARI,Marco Wilson,CB,Florida,2021
+137,SEA,Tre Brown,CB,Oklahoma,2021
+138,DAL,Josh Ball,OL,Marshall,2021
+139,CIN,D'Ante Smith,T,East Carolina,2021
+140,PIT,Buddy Johnson,LB,Texas A&M,2021
+141,LAR,Jacob Harris,WR,Central Florida,2021
+142,GNB,Royce Newman,G,Mississippi,2021
+143,LVR,Tyree Gillespie,S,Missouri,2021
+144,KAN,Joshua Kaindoh,DE,Florida St.,2021
+145,JAX,Luke Farrell,TE,Ohio St.,2021
+146,NYJ,Jamien Sherwood,DB,Auburn,2021
+147,HOU,Brevin Jordan,TE,Miami (FL),2021
+148,ATL,Ta'Quon Graham,DL,Texas,2021
+149,CIN,Evan McPherson,K,Florida,2021
+150,PHI,Kenneth Gainwell,RB,Memphis,2021
+151,CHI,Larry Borom,OL,Missouri,2021
+152,DEN,Caden Sterns,DB,Texas,2021
+153,CLE,Tony Fields,LB,West Virginia,2021
+154,NYJ,Michael Carter,S,Duke,2021
+155,SFO,Jaylon Moore,T,Western Michigan,2021
+156,PIT,Isaiahh Loudermilk,DE,Wisconsin,2021
+157,MIN,Ihmir Smith-Marsette,WR,Iowa,2021
+158,CAR,Daviyon Nixon,DT,Iowa,2021
+159,LAC,Brenden Jaimes,OL,Nebraska,2021
+160,BAL,Shaun Wade,CB,Ohio St.,2021
+161,BUF,Tommy Doyle,OL,Miami (OH),2021
+162,KAN,Noah Gray,TE,Duke,2021
+163,WAS,Darrick Forrest,S,Cincinnati,2021
+164,DEN,Jamar Johnson,DB,Indiana,2021
+165,IND,Shawn Davis,DB,Florida,2021
+166,CAR,Keith Taylor,DB,Washington,2021
+167,LVR,Nate Hobbs,CB,Illinois,2021
+168,MIN,Zach Davidson,TE,Central Missouri St.,2021
+169,CLE,Richard LeCounte,DB,Georgia,2021
+170,HOU,Garret Wallow,LB,TCU,2021
+171,BAL,Daelin Hayes,DL,Notre Dame,2021
+172,SFO,Deommodore Lenoir,CB,Oregon,2021
+173,GNB,Tedarrell Slaton,DL,Florida,2021
+174,LAR,Earnest Brown IV,DE,Northwestern,2021
+175,NYJ,Jason Pinnock,CB,Pittsburgh,2021
+176,TAM,K.J. Britt,LB,Auburn,2021
+177,NWE,Cameron McGrone,LB,Michigan,2021
+178,GNB,Shemar Jean-Charles,DB,Appalachian St.,2021
+179,DAL,Simi Fehoko,WR,Stanford,2021
+180,SFO,Talanoa Hufanga,S,USC,2021
+181,KAN,Cornell Powell,WR,Clemson,2021
+182,ATL,Adetokunbo Ogundeji,DL,Notre Dame,2021
+183,ATL,Avery Williams,CB,Boise St.,2021
+184,BAL,Ben Mason,FB,Michigan,2021
+185,LAC,Nick Niemann,LB,Iowa,2021
+186,NYJ,Hamsah Nasirildeen,DB,Florida St.,2021
+187,ATL,Frank Darby,WR,Arizona St.,2021
+188,NWE,Joshuah Bledsoe,S,Missouri,2021
+189,PHI,Marlon Tuipulotu,DL,USC,2021
+190,CIN,Trey Hill,OL,Georgia,2021
+191,PHI,Tarron Jackson,DE,Coastal Carolina,2021
+192,DAL,Quinton Bohanna,DT,Kentucky,2021
+193,CAR,Deonte Brown,OL,Alabama,2021
+194,SFO,Elijah Mitchell,RB,Louisiana,2021
+195,HOU,Roy Lopez,DL,Arizona,2021
+196,NYG,Gary Brightwell,RB,Arizona,2021
+197,NWE,William Sherman,OL,Colorado,2021
+198,LAC,Larry Rountree,RB,Missouri,2021
+199,MIN,Jaylen Twyman,DL,Pittsburgh,2021
+200,NYJ,Brandin Echols,CB,Kentucky,2021
+201,NYG,Rodarius Williams,CB,Oklahoma St.,2021
+202,CIN,Chris Evans,RB,Michigan,2021
+203,BUF,Marquez Stevenson,WR,Houston,2021
+204,CAR,Shi Smith,WR,South Carolina,2021
+205,TEN,Racey McMath,WR,LSU,2021
+206,NOR,Landon Young,T,Kentucky,2021
+207,NYJ,Jonathan Marshall,DL,Arkansas,2021
+208,SEA,Stone Forsythe,OL,Florida,2021
+209,JAX,Jalen Camp,WR,Georgia Tech,2021
+210,ARI,Victor Dimukeje,DE,Duke,2021
+211,CLE,Demetric Felton,RB,UCLA,2021
+212,BUF,Damar Hamlin,DB,Pittsburgh,2021
+213,BUF,Rachad Wildgoose,CB,Wisconsin,2021
+214,GNB,Cole Van Lanen,OL,Wisconsin,2021
+215,TEN,Brady Breeze,S,Oregon,2021
+216,PIT,Quincy Roche,DL,Miami (FL),2021
+217,CHI,Khalil Herbert,RB,Virginia Tech,2021
+218,IND,Sam Ehlinger,QB,Texas,2021
+219,DEN,Seth Williams,WR,Auburn,2021
+220,GNB,Isaiah McDuffie ,LB,Boston Col.,2021
+221,CHI,Dazz Newsome,WR,North Carolina,2021
+222,CAR,Thomas Fletcher,LS,Alabama,2021
+223,ARI,Tay Gowan,DB,Central Florida,2021
+224,PHI,JaCoby Stevens,S,LSU,2021
+225,WAS,Camaron Cheeseman,LS,Michigan,2021
+226,KAN,Trey Smith,OL,Tennessee,2021
+227,DAL,Israel Mukuamu,DB,South Carolina,2021
+228,CHI,Thomas Graham,CB,Oregon,2021
+229,IND,Mike Strachan,WR,Charleston (WV),2021
+230,LVR,Jimmy Morrissey,OL,Pittsburgh,2021
+231,MIA,Larnel Coleman,T,Massachusetts,2021
+232,CAR,Phil Hoskins,DT,Kentucky,2021
+233,LAR,Jake Funk,RB,Maryland,2021
+234,PHI,Patrick Johnson,DE,Tulane,2021
+235,CIN,Wyatt Hubert,DE,Kansas St.,2021
+236,BUF,Jack Anderson,OL,Texas Tech,2021
+237,DEN,Kary Vincent Jr.,CB,LSU,2021
+238,DAL,Matt Farniok,G,Nebraska,2021
+239,DEN,Jonathon Cooper,DE,Ohio St.,2021
+240,WAS,William Bradley-King,OLB,Baylor,2021
+241,LAC,Mark Webb,DB,Georgia,2021
+242,NWE,Tre Nixon,WR,Central Florida,2021
+243,ARI,James Wiggins,S,Cincinnati,2021
+244,MIA,Gerrid Doaks,RB,Cincinnati,2021
+245,PIT,Tre Norwood,DB,Oklahoma,2021
+246,WAS,Shaka Toney,DE,Penn St.,2021
+247,ARI,Michal Menet,OL,Penn St.,2021
+248,IND,Will Fries,OL,Penn St.,2021
+249,LAR,Ben Skowronek,WR,Notre Dame,2021
+250,CHI,Khyiris Tonga,DL,BYU,2021
+251,TAM,Chris Wilcox,DB,BYU,2021
+252,LAR,Chris Garrett,DE,Concordia-St.Paul (MN),2021
+253,DEN,Marquiss Spencer,DE,Mississippi St.,2021
+254,PIT,Pressley Harvin III,P,Georgia Tech,2021
+255,NOR,Kawaan Baker,WR,South Alabama,2021
+256,GNB,Kylin Hill,RB,Mississippi St.,2021
+257,DET,Jermar Jefferson,RB,Oregon St.,2021
+258,WAS,Dax Milne,WR,BYU,2021
+259,TAM,Grant Stuard,LB,Houston,2021
+1,JAX,Travon Walker,DE,Georgia,2022
+2,DET,Aidan Hutchinson,DE,Michigan,2022
+3,HOU,Derek Stingley Jr.,CB,LSU,2022
+4,NYJ,Sauce Gardner,CB,Cincinnati,2022
+5,NYG,Kayvon Thibodeaux,DE,Oregon,2022
+6,CAR,Ikem Ekwonu,T,North Carolina St.,2022
+7,NYG,Evan Neal,OL,Alabama,2022
+8,ATL,Drake London,WR,USC,2022
+9,SEA,Charles Cross,OL,Mississippi St.,2022
+10,NYJ,Garrett Wilson,WR,Ohio St.,2022
+11,NOR,Chris Olave,WR,Ohio St.,2022
+12,DET,Jameson Williams,WR,Alabama,2022
+13,PHI,Jordan Davis,DT,Georgia,2022
+14,BAL,Kyle Hamilton,SAF,Notre Dame,2022
+15,HOU,Kenyon Green,OL,Texas A&M,2022
+16,WAS,Jahan Dotson,WR,Penn St.,2022
+17,LAC,Zion Johnson,G,Boston Col.,2022
+18,TEN,Treylon Burks,WR,Arkansas,2022
+19,NOR,Trevor Penning,T,Northern Iowa,2022
+20,PIT,Kenny Pickett,QB,Pittsburgh,2022
+21,KAN,Trent McDuffie,CB,Washington,2022
+22,GNB,Quay Walker,LB,Georgia,2022
+23,BUF,Kaiir Elam,CB,Florida,2022
+24,DAL,Tyler Smith,OL,Tulsa,2022
+25,BAL,Tyler Linderbaum,OL,Iowa,2022
+26,NYJ,Jermaine Johnson II,LB,Florida St.,2022
+27,JAX,Devin Lloyd,LB,Utah,2022
+28,GNB,Devonte Wyatt,DT,Georgia,2022
+29,NWE,Cole Strange,OL,Chattanooga,2022
+30,KAN,George Karlaftis III,DE,Purdue,2022
+31,CIN,Daxton Hill,DB,Michigan,2022
+32,MIN,Lewis Cine,DB,Georgia,2022
+33,TAM,Logan Hall,DE,Houston,2022
+34,GNB,Christian Watson,WR,North Dakota St.,2022
+35,TEN,Roger McCreary,CB,Auburn,2022
+36,NYJ,Breece Hall,RB,Iowa St.,2022
+37,HOU,Jalen Pitre,SAF,Baylor,2022
+38,ATL,Arnold Ebiketie,DE,Penn St.,2022
+39,CHI,Kyler Gordon,CB,Washington,2022
+40,SEA,Boye Mafe,DE,Minnesota,2022
+41,SEA,Kenneth Walker III,RB,Michigan St.,2022
+42,MIN,Andrew Booth,CB,Clemson,2022
+43,NYG,Wan'Dale Robinson,WR,Kentucky,2022
+44,HOU,John Metchie,WR,Alabama,2022
+45,BAL,David Ojabo,LB,Michigan,2022
+46,DET,Josh Paschal,DE,Kentucky,2022
+47,WAS,Phidarian Mathis,DT,Alabama,2022
+48,CHI,Jaquan Brisker,SAF,Penn St.,2022
+49,NOR,Alontae Taylor,DB,Tennessee,2022
+50,NWE,Tyquan Thornton,WR,Baylor,2022
+51,PHI,Cam Jurgens,OL,Nebraska,2022
+52,PIT,George Pickens,WR,Georgia,2022
+53,IND,Alec Pierce,WR,Cincinnati,2022
+54,KAN,Skyy Moore,WR,Western Michigan,2022
+55,ARI,Trey McBride,TE,Colorado St.,2022
+56,DAL,Sam Williams,DE,Mississippi,2022
+57,TAM,Luke Goedeke,OL,Central Michigan,2022
+58,ATL,Troy Andersen,LB,Montana St.,2022
+59,MIN,Ed Ingram,G,LSU,2022
+60,CIN,Cam Taylor-Britt,CB,Nebraska,2022
+61,SFO,Drake Jackson,OLB,USC,2022
+62,KAN,Bryan Cook,SAF,Cincinnati,2022
+63,BUF,James Cook,RB,Georgia,2022
+64,DEN,Nik Bonitto,OLB,Oklahoma,2022
+65,JAX,Luke Fortner,G,Kentucky,2022
+66,MIN,Brian Asamoah,LB,Oklahoma,2022
+67,NYG,Joshua Ezeudu,OL,North Carolina,2022
+68,CLE,Martin Emerson,CB,Mississippi St.,2022
+69,TEN,Nicholas Petit-Frere,T,Ohio St.,2022
+70,JAX,Chad Muma,LB,Wyoming,2022
+71,CHI,Velus Jones Jr.,WR,Tennessee,2022
+72,SEA,Abraham Lucas,OL,Washington St.,2022
+73,IND,Jelani Woods,TE,Virginia,2022
+74,ATL,Desmond Ridder,QB,Cincinnati,2022
+75,HOU,Christian Harris,LB,Alabama,2022
+76,BAL,Travis Jones,DT,Connecticut,2022
+77,IND,Bernhard Raimann,OL,Central Michigan,2022
+78,CLE,Alex Wright,DE,Ala-Birmingham,2022
+79,LAC,JT Woods,SAF,Baylor,2022
+80,DEN,Greg Dulcich,TE,UCLA,2022
+81,NYG,Cordale Flott,CB,LSU,2022
+82,ATL,DeAngelo Malone,DE,Western Kentucky,2022
+83,PHI,Nakobe Dean,LB,Georgia,2022
+84,PIT,DeMarvin Leal,DT,Texas A&M,2022
+85,NWE,Marcus Jones,CB,Houston,2022
+86,TEN,Malik Willis,QB,Liberty,2022
+87,ARI,Cameron Thomas,DE,San Diego St.,2022
+88,DAL,Jalen Tolbert,WR,South Alabama,2022
+89,BUF,Terrel Bernard,LB,Baylor,2022
+90,LVR,Dylan Parham,OL,Memphis,2022
+91,TAM,Rachaad White,RB,Arizona St.,2022
+92,GNB,Sean Rhyan,OL,UCLA,2022
+93,SFO,Tyrion Davis-Price,RB,LSU,2022
+94,CAR,Matt Corral,QB,Mississippi,2022
+95,CIN,Zachary Carter,DE,Florida,2022
+96,IND,Nick Cross,DB,Maryland,2022
+97,DET,Kerby Joseph,DB,Illinois,2022
+98,WAS,Brian Robinson Jr.,RB,Alabama,2022
+99,CLE,David Bell,WR,Purdue,2022
+100,ARI,Myjai Sanders,DE,Cincinnati,2022
+101,NYJ,Jeremy Ruckert,TE,Ohio St.,2022
+102,MIA,Channing Tindall,LB,Georgia,2022
+103,KAN,Leo Chenal,LB,Wisconsin,2022
+104,LAR,Logan Bruss,OL,Wisconsin,2022
+105,SFO,Danny Gray,WR,SMU,2022
+106,TAM,Cade Otton,TE,Washington,2022
+107,HOU,Dameon Pierce,RB,Florida,2022
+108,CLE,Perrion Winfrey,DT,Oklahoma,2022
+109,SEA,Coby Bryant,CB,Cincinnati,2022
+110,BAL,Daniel Faalele,T,Minnesota,2022
+111,NYJ,Max Mitchell,T,Louisiana,2022
+112,NYG,Daniel Bellinger,TE,San Diego St.,2022
+113,WAS,Percy Butler,SAF,Louisiana,2022
+114,NYG,Dane Belton,DB,Iowa,2022
+115,DEN,Damarri Mathis,DB,Pittsburgh,2022
+116,DEN,Eyioma Uwazurike,DE,Iowa St.,2022
+117,NYJ,Micheal Clemons,DT,Texas A&M,2022
+118,MIN,Akayleb Evans,DB,Missouri,2022
+119,BAL,Jalyn Armour-Davis,DB,Alabama,2022
+120,CAR,Brandon Smith,LB,Penn St.,2022
+121,NWE,Jack Jones,DB,Arizona St.,2022
+122,LVR,Zamir White,RB,Georgia,2022
+123,LAC,Isaiah Spiller,RB,Texas A&M,2022
+124,CLE,Cade York,K,LSU,2022
+125,MIA,Erik Ezukanma,WR,Texas Tech,2022
+126,LVR,Neil Farrell,DT,LSU,2022
+127,NWE,Pierre Strong,RB,South Dakota St.,2022
+128,BAL,Charlie Kolar,TE,Iowa St.,2022
+129,DAL,Jake Ferguson,TE,Wisconsin,2022
+130,BAL,Jordan Stout,P,Penn St.,2022
+131,TEN,Hassan Haskins,RB,Michigan,2022
+132,GNB,Romeo Doubs,WR,Nevada,2022
+133,TAM,Jake Camarda,P,Georgia,2022
+134,SFO,Spencer Burford,OL,Texas-San Antonio,2022
+135,KAN,Joshua Williams,CB,Fayetteville St.,2022
+136,CIN,Cordell Volson,T,North Dakota St.,2022
+137,NWE,Bailey Zappe,QB,Western Kentucky,2022
+138,PIT,Calvin Austin,WR,Memphis,2022
+139,BAL,Isaiah Likely,TE,Coastal Carolina,2022
+140,GNB,Zach Tom,OL,Wake Forest,2022
+141,BAL,Damarion Williams,CB,Houston,2022
+142,LAR,Cobie Durant,DB,South Carolina St.,2022
+143,TEN,Chigoziem Okonkwo,TE,Maryland,2022
+144,WAS,Sam Howell,QB,North Carolina,2022
+145,KAN,Darian Kinnard,T,Kentucky,2022
+146,NYG,Micah McFadden,LB,Indiana,2022
+147,NYG,D.J. Davidson,DT,Arizona St.,2022
+148,BUF,Khalil Shakir,WR,Boise St.,2022
+149,WAS,Cole Turner,TE,Nevada,2022
+150,HOU,Thomas Booker,DE,Stanford,2022
+151,ATL,Tyler Allgeier,RB,BYU,2022
+152,DEN,Delarrin Turner-Yell,SAF,Oklahoma,2022
+153,SEA,Tariq Woolen,CB,Texas-San Antonio,2022
+154,JAX,Snoop Conner,RB,Mississippi,2022
+155,DAL,Matt Waletzko,OL,North Dakota,2022
+156,CLE,Jerome Ford,RB,Cincinnati,2022
+157,TAM,Zyon McCollum,DB,Sam Houston St.,2022
+158,SEA,Tyreke Smith,DE,Ohio St.,2022
+159,IND,Eric Johnson,DT,Missouri State,2022
+160,LAC,Otito Ogbonnia,DT,UCLA,2022
+161,NOR,D'Marco Jackson,LB,Appalachian St.,2022
+162,DEN,Montrell Washington,WR,Samford,2022
+163,TEN,Kyle Philips,WR,UCLA,2022
+164,LAR,Kyren Williams,RB,Notre Dame,2022
+165,MIN,Esezi Otomewo,DT,Minnesota,2022
+166,CIN,Tycen Anderson,SAF,Toledo,2022
+167,DAL,DaRon Bland,DB,Fresno St.,2022
+168,CHI,Braxton Jones,OL,Southern Utah,2022
+169,MIN,Ty Chandler,RB,North Carolina,2022
+170,HOU,Teagan Quitoriano,TE,Oregon St.,2022
+171,DEN,Luke Wattenberg,OL,Washington,2022
+172,SFO,Samuel Womack,CB,Toledo,2022
+173,NYG,Marcus McKethan,OL,North Carolina,2022
+174,CHI,Dominique Robinson,DE,Miami (OH),2022
+175,LVR,Matthew Butler,DT,Tennessee,2022
+176,DAL,Damone Clark,LB,LSU,2022
+177,DET,James Mitchell,TE,Virginia Tech,2022
+178,DAL,John Ridgeway,DT,Arkansas,2022
+179,GNB,Kingsley Enagbare,DE,South Carolina,2022
+180,BUF,Matt Araiza,P,San Diego St.,2022
+181,PHI,Kyron Johnson,DE,Kansas,2022
+182,NYG,Darrian Beavers,LB,Cincinnati,2022
+183,NWE,Kevin Harris,RB,South Carolina,2022
+184,MIN,Vederian Lowe,OL,Illinois,2022
+185,BUF,Christian Benford,DB,Villanova,2022
+186,CHI,Zachary Thomas,OL,San Diego St.,2022
+187,SFO,Nick Zakelj,OL,Fordham,2022
+188,DET,Malcolm Rodriguez,LB,Oklahoma St.,2022
+189,CAR,Amare Barno,DE,Virginia Tech,2022
+190,ATL,Justin Shaffer,OL,Georgia,2022
+191,MIN,Jalen Nailor,WR,Michigan St.,2022
+192,IND,Andrew Ogletree,TE,Youngstown St.,2022
+193,DAL,Devin Harper,LB,Oklahoma St.,2022
+194,NOR,Jordan Jackson,DT,Air Force,2022
+195,LAC,Jamaree Salyer,OL,Georgia,2022
+196,BAL,Tyler Badie,RB,Missouri,2022
+197,JAX,Gregory Junior,CB,Ouachita Baptist,2022
+198,PHI,Grant Calcaterra,TE,SMU,2022
+199,CAR,Cade Mays,OL,Tennessee,2022
+200,NWE,Sam Roberts,DE,NW Missouri St.,2022
+201,ARI,Keaontay Ingram,RB,USC,2022
+202,CLE,Michael Woods II,WR,Oklahoma,2022
+203,CHI,Trestan Ebner,RB,Baylor,2022
+204,TEN,Theo Jackson,DB,Tennessee,2022
+205,HOU,Austin Deculus,T,LSU,2022
+206,DEN,Matt Henningsen,DE,Wisconsin,2022
+207,CHI,Doug Kramer,OL,Illinois,2022
+208,PIT,Connor Heyward,TE,Michigan St.,2022
+209,BUF,Luke Tenuta,OL,Virginia Tech,2022
+210,NWE,Chasen Hines,G,LSU,2022
+211,LAR,Quentin Lake,DB,UCLA,2022
+212,LAR,Derion Kendrick,DB,Georgia,2022
+213,ATL,John FitzPatrick,TE,Georgia,2022
+214,LAC,Ja'Sir Taylor,DB,Wake Forest,2022
+215,ARI,Lecitus Smith,OL,Virginia Tech,2022
+216,IND,Curtis Brooks,DT,Cincinnati,2022
+217,DET,James Houston,LB,Jackson St.,2022
+218,TAM,Ko Kieft,TE,Minnesota,2022
+219,TEN,Chance Campbell,LB,Mississippi,2022
+220,SFO,Kalia Davis,DT,Central Florida,2022
+221,SFO,Tariq Castro-Fields,CB,Penn St.,2022
+222,JAX,Montaric Brown,DB,Arkansas,2022
+223,CLE,Isaiah Thomas,DE,Oklahoma,2022
+224,MIA,Cameron Goode,OLB,California,2022
+225,PIT,Mark Robinson,LB,Mississippi,2022
+226,CHI,Ja'Tyre Carter,OL,Southern,2022
+227,MIN,Nick Muse,TE,South Carolina,2022
+228,GNB,Tariq Carpenter,DB,Georgia Tech,2022
+229,SEA,Bo Melton,WR,Rutgers,2022
+230,WAS,Chris Paul,OL,Tulsa,2022
+231,BUF,Baylon Spector,LB,Clemson,2022
+232,DEN,Faion Hicks,CB,Wisconsin,2022
+233,SEA,Dareke Young,WR,Lenoir-Rhyne,2022
+234,GNB,Jonathan Ford,DT,Miami (FL),2022
+235,LAR,Daniel Hardy,LB,Montana St.,2022
+236,LAC,Deane Leonard,DB,Mississippi,2022
+237,DET,Chase Lucas,DB,Arizona St.,2022
+238,LVR,Thayer Munford,OL,Ohio St.,2022
+239,IND,Rodney Thomas II,LB,Yale,2022
+240,WAS,Christian Holmes,CB,Oklahoma St.,2022
+241,PIT,Chris Oladokun,QB,South Dakota St.,2022
+242,CAR,Kalon Barnes,CB,Baylor,2022
+243,KAN,Jaylen Watson,DB,Washington St.,2022
+244,ARI,Christian Matthew,DB,Valdosta St.,2022
+245,NWE,Andrew Stueber,OL,Michigan,2022
+246,CLE,Dawson Deaton,OL,Texas Tech,2022
+247,MIA,Skylar Thompson,QB,Kansas St.,2022
+248,TAM,Andre Anthony,DE,LSU,2022
+249,GNB,Rasheed Walker,OL,Penn St.,2022
+250,LVR,Brittain Brown,RB,UCLA,2022
+251,KAN,Isiah Pacheco,RB,Rutgers,2022
+252,CIN,Jeff Gunter,OLB,Coastal Carolina,2022
+253,LAR,Russ Yeast,DB,Kansas St.,2022
+254,CHI,Elijah Hicks,SAF,California,2022
+255,CHI,Trenton Gill,P,North Carolina St.,2022
+256,ARI,Jesse Luketa,LB,Penn St.,2022
+257,ARI,Marquis Hayes,OL,Oklahoma,2022
+258,GNB,Samori Toure,WR,Nebraska,2022
+259,KAN,Nazeeh Johnson,SAF,Marshall,2022
+260,LAC,Zander Horvath,RB,Purdue,2022
+261,LAR,AJ Arcuri,OT,Michigan St.,2022
+262,SFO,Brock Purdy,QB,Iowa St.,2022
