@@ -13,7 +13,8 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Set base directory for all data files
-base_dir = r'C:\Users\matthew.jones\OneDrive - WellSky\Documents\Python Projects\FF'
+base_dir = r'C:\Users\matthew.jones\OneDrive - WellSky\Documents\Python Projects\FF\Data Files'
+result_dir = r'C:\Users\matthew.jones\OneDrive - WellSky\Documents\Python Projects\FF\2025 Predictions'
 
 print("Loading and validating data...")
 # Load data with validation
@@ -557,7 +558,7 @@ if not df_wr_current.empty:
     
     # Save results
     print("Saving results...")
-    with pd.ExcelWriter(os.path.join(base_dir, 'wr_model_report.xlsx')) as writer:
+    with pd.ExcelWriter(os.path.join(result_dir, 'wr_model_report.xlsx')) as writer:
         metrics_df.to_excel(writer, sheet_name='Model_Metrics', index=False)
         quality_df.to_excel(writer, sheet_name='Data_Quality', index=False)
         coef_df.head(25).to_excel(writer, sheet_name='Feature_Importance', index=False)
@@ -568,7 +569,7 @@ if not df_wr_current.empty:
             pd.DataFrame(cv_results).to_excel(writer, sheet_name='Cross_Validation', index=False)
     
     print(f"Predictions completed for {len(df_output)} players")
-    print(f"Results saved to: {os.path.join(base_dir, 'wr_model_report.xlsx')}")
+    print(f"Results saved to: {os.path.join(result_dir, 'wr_model_report.xlsx')}")
     
     # Enhanced analysis
     if 'experience_level' in df_output.columns:
